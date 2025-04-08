@@ -1,0 +1,785 @@
+[
+    {
+        "context": "Alzheimer's disease is a disease that affects memory, reasoning, language, and behavior",
+        "questions": [
+            {
+                "question": "What areas are affected by Alzheimer's disease?",
+                "answer": "memory, reasoning, language, and behavior"
+            },
+            {
+                "question": "How does Alzheimer's disease affect behavior?",
+                "answer": "it affects memory, reasoning, language, and behavior"
+            }
+        ]
+    },
+    {
+        "context": "Alzheimer's disease is the most common form of dementia, accounting for about 60 to 70% of cases",
+        "questions": [
+            {
+                "question": "What is the most common form of dementia?",
+                "answer": "Alzheimer's disease"
+            },
+            {
+                "question": "What percentage of dementia cases are Alzheimer's disease?",
+                "answer": "about 60 to 70% of cases"
+            }
+        ]
+    },
+    {
+        "context": "Alzheimer's disease is a neurodegenerative disease characterized by the progressive death of brain nerve cells",
+        "questions": [
+            {
+                "question": "What is the nature of Alzheimer's disease?",
+                "answer": "a neurodegenerative disease"
+            },
+            {
+                "question": "What characterizes Alzheimer's disease?",
+                "answer": "the progressive death of brain nerve cells"
+            }
+        ]
+    },
+    {
+        "context": "Alzheimer's disease is a progressive disease, meaning that symptoms worsen over time",
+        "questions": [
+            {
+                "question": "How does Alzheimer's disease progress?",
+                "answer": "symptoms worsen over time"
+            },
+            {
+                "question": "What does it mean that Alzheimer's disease is progressive?",
+                "answer": "symptoms worsen over time"
+            }
+        ]
+    },
+    {
+        "context": "Alzheimer's disease is an irreversible disease, meaning there is no known cure",
+        "questions": [
+            {
+                "question": "Does Alzheimer's disease have a cure?",
+                "answer": "there is no known cure"
+            },
+            {
+                "question": "What does it mean that Alzheimer's disease is irreversible?",
+                "answer": "there is no known cure"
+            }
+        ]
+    },
+    {
+        "context": "Alzheimer's disease primarily affects older people, although it can occur in younger people",
+        "questions": [
+            {
+                "question": "Who is most affected by Alzheimer's disease?",
+                "answer": "older people"
+            },
+            {
+                "question": "Can Alzheimer's disease affect younger people?",
+                "answer": "yes, although it primarily occurs in older people"
+            }
+        ]
+    },
+    {
+        "context": "Alzheimer's disease affects not only the diagnosed person but also their family members and caregivers",
+        "questions": [
+            {
+                "question": "Who else is affected by Alzheimer's disease?",
+                "answer": "family members and caregivers"
+            },
+            {
+                "question": "Does Alzheimer's disease only affect the patient?",
+                "answer": "no, it also affects family members and caregivers"
+            }
+        ]
+    },
+    {
+        "context": "Alzheimer's disease can lead to memory loss, confusion, difficulty performing daily tasks, and mood changes",
+        "questions": [
+            {
+                "question": "What are the symptoms of Alzheimer's disease?",
+                "answer": "memory loss, confusion, difficulty performing daily tasks, and mood changes"
+            },
+            {
+                "question": "How does Alzheimer's disease affect memory?",
+                "answer": "it can lead to memory loss"
+            },
+            {
+                "question": "What difficulties can arise with Alzheimer's disease?",
+                "answer": "difficulty performing daily tasks and mood changes"
+            }
+        ]
+    },
+    {
+        "context": "Alzheimer's disease can affect communication skills, making it difficult for the person to find the right words or follow a conversation",
+        "questions": [
+            {
+                "question": "How does Alzheimer's disease affect communication?",
+                "answer": "it can affect communication skills, making it difficult to find the right words or follow a conversation"
+            },
+            {
+                "question": "What communication difficulties can occur with Alzheimer's disease?",
+                "answer": "difficulty finding the right words or following a conversation"
+            }
+        ]
+    },
+    {
+        "context": "Alzheimer's disease can affect reasoning and judgment, making it difficult to make decisions and solve problems",
+        "questions": [
+            {
+                "question": "How does Alzheimer's disease affect reasoning?",
+                "answer": "it can affect reasoning and judgment"
+            },
+            {
+                "question": "What cognitive difficulties can arise with Alzheimer's disease?",
+                "answer": "making it difficult to make decisions and solve problems"
+            }
+        ]
+    },
+    {
+        "context": "Alzheimer's disease can lead to disorientation in time and space, causing the person to get lost in familiar places or not recognize close people",
+        "questions": [
+            {
+                "question": "How does Alzheimer's disease affect orientation?",
+                "answer": "it can lead to disorientation in time and space"
+            },
+            {
+                "question": "What orientation problems can occur with Alzheimer's disease?",
+                "answer": "causing the person to get lost in familiar places or not recognize close people"
+            }
+        ]
+    },
+    {
+        "context": "Alzheimer's disease can cause sleep disturbances, such as insomnia or excessive daytime sleepiness",
+        "questions": [
+            {
+                "question": "How does Alzheimer's disease affect sleep?",
+                "answer": "it can cause sleep disturbances, such as insomnia or excessive daytime sleepiness"
+            },
+            {
+                "question": "What sleep problems can occur with Alzheimer's disease?",
+                "answer": "insomnia or excessive daytime sleepiness"
+            }
+        ]
+    },
+    {
+        "context": "Alzheimer's disease can lead to changes in appetite and weight, resulting in significant weight loss or gain",
+        "questions": [
+            {
+                "question": "How does Alzheimer's disease affect appetite?",
+                "answer": "it can lead to changes in appetite and weight"
+            },
+            {
+                "question": "What dietary changes can occur with Alzheimer's disease?",
+                "answer": "resulting in significant weight loss or gain"
+            }
+        ]
+    },
+    {
+        "context": "Alzheimer's disease can cause mood and behavior changes, leading to feelings of depression, anxiety, or irritability",
+        "questions": [
+            {
+                "question": "How does Alzheimer's disease affect mood?",
+                "answer": "it can cause mood and behavior changes"
+            },
+            {
+                "question": "What emotional problems can occur with Alzheimer's disease?",
+                "answer": "leading to feelings of depression, anxiety, or irritability"
+            }
+        ]
+    },
+    {
+        "context": "Alzheimer's disease can affect the ability to perform daily activities, such as cooking, cleaning, or self-care",
+        "questions": [
+            {
+                "question": "How does Alzheimer's disease affect daily activities?",
+                "answer": "it can affect the ability to perform daily activities"
+            },
+            {
+                "question": "What activities can be affected by Alzheimer's disease?",
+                "answer": "cooking, cleaning, or self-care"
+            }
+        ]
+    },
+    {
+        "context": "Alzheimer's disease can lead to difficulties recognizing faces and names, making it hard for the person to identify friends and family",
+        "questions": [
+            {
+                "question": "How does Alzheimer's disease affect recognition?",
+                "answer": "it can lead to difficulties recognizing faces and names"
+            },
+            {
+                "question": "What recognition problems can occur with Alzheimer's disease?",
+                "answer": "making it hard for the person to identify friends and family"
+            }
+        ]
+    },
+    {
+        "context": "Alzheimer's disease can cause difficulties handling numbers and money, making financial tasks challenging",
+        "questions": [
+            {
+                "question": "How does Alzheimer's disease affect math?",
+                "answer": "it can cause difficulties handling numbers and money"
+            },
+            {
+                "question": "What financial problems can occur with Alzheimer's disease?",
+                "answer": "making financial tasks challenging"
+            }
+        ]
+    },
+    {
+        "context": "Alzheimer's disease can lead to difficulties following instructions and completing tasks, making it hard for the person to perform everyday activities",
+        "questions": [
+            {
+                "question": "How does Alzheimer's disease affect the ability to follow instructions?",
+                "answer": "it can lead to difficulties following instructions and completing tasks"
+            },
+            {
+                "question": "What execution problems can occur with Alzheimer's disease?",
+                "answer": "making it hard for the person to perform everyday activities"
+            }
+        ]
+    },
+    {
+        "context": "Alzheimer's disease can cause difficulties planning and organizing activities, making complex tasks challenging",
+        "questions": [
+            {
+                "question": "How does Alzheimer's disease affect planning?",
+                "answer": "it can cause difficulties planning and organizing activities"
+            },
+            {
+                "question": "What organizational problems can occur with Alzheimer's disease?",
+                "answer": "making complex tasks challenging"
+            }
+        ]
+    },
+    {
+        "context": "Alzheimer's disease can lead to difficulties dealing with changes and new situations, making it hard for the person to adapt to new circumstances",
+        "questions": [
+            {
+                "question": "How does Alzheimer's disease affect adaptation?",
+                "answer": "it can lead to difficulties dealing with changes and new situations"
+            },
+            {
+                "question": "What adaptation problems can occur with Alzheimer's disease?",
+                "answer": "making it hard for the person to adapt to new circumstances"
+            }
+        ]
+    },
+    {
+        "context": "Alzheimer's disease can cause difficulties recognizing objects and their functions, making everyday activities challenging",
+        "questions": [
+            {
+                "question": "How does Alzheimer's disease affect object recognition?",
+                "answer": "it can cause difficulties recognizing objects and their functions"
+            },
+            {
+                "question": "What recognition problems can occur with Alzheimer's disease?",
+                "answer": "making everyday activities challenging"
+            }
+        ]
+    },
+    {
+        "context": "Alzheimer's disease can lead to difficulties recognizing sounds and voices, making communication with others challenging",
+        "questions": [
+            {
+                "question": "How does Alzheimer's disease affect auditory recognition?",
+                "answer": "it can lead to difficulties recognizing sounds and voices"
+            },
+            {
+                "question": "What auditory problems can occur with Alzheimer's disease?",
+                "answer": "making communication with others challenging"
+            }
+        ]
+    },
+    {
+        "context": "Alzheimer's disease can cause difficulties recognizing smells and tastes, making it hard to enjoy food and drinks",
+        "questions": [
+            {
+                "question": "How does Alzheimer's disease affect olfactory recognition?",
+                "answer": "it can cause difficulties recognizing smells and tastes"
+            },
+            {
+                "question": "What olfactory problems can occur with Alzheimer's disease?",
+                "answer": "making it hard to enjoy food and drinks"
+            }
+        ]
+    },
+    {
+        "context": "Alzheimer's disease can lead to difficulties recognizing emotions and facial expressions, making social interaction challenging",
+        "questions": [
+            {
+                "question": "How does Alzheimer's disease affect emotional recognition?",
+                "answer": "it can lead to difficulties recognizing emotions and facial expressions"
+            },
+            {
+                "question": "What emotional problems can occur with Alzheimer's disease?",
+                "answer": "making social interaction challenging"
+            }
+        ]
+    },
+    {
+        "context": "This deterioration results in changes in behavior, personality, and functional capacity, making it difficult to perform daily life activities",
+        "questions": [
+            {
+                "question": "What are the consequences of the deterioration caused by Alzheimer's?",
+                "answer": "changes in behavior, personality, and functional capacity"
+            },
+            {
+                "question": "How does Alzheimer's affect daily activities?",
+                "answer": "making it difficult to perform daily life activities"
+            },
+            {
+                "question": "What areas of life are affected by Alzheimer's disease?",
+                "answer": "behavior, personality, and functional capacity"
+            }
+        ]
+    },
+    {
+        "context": "The name of this disease is due to Alois Alzheimer, a German doctor who first described the disease in 1907",
+        "questions": [
+            {
+                "question": "Who discovered Alzheimer's disease?",
+                "answer": "Alois Alzheimer"
+            },
+            {
+                "question": "In what year was Alzheimer's disease first described?",
+                "answer": "1907"
+            },
+            {
+                "question": "What is the origin of the name Alzheimer's disease?",
+                "answer": "it is due to Alois Alzheimer, a German doctor"
+            }
+        ]
+    },
+    {
+        "context": "As brain cells shrink in size and number, neurofibrillary tangles form inside them and senile plaques form in the space between them. This situation prevents communication within the brain and damages the connections between brain cells. These eventually die, resulting in an inability to recall information. Thus, as Alzheimer's disease affects various brain areas, certain functions or abilities are lost",
+        "questions": [
+            {
+                "question": "What happens to brain cells in Alzheimer's disease?",
+                "answer": "they shrink in size and number"
+            },
+            {
+                "question": "What formations occur in the brains of Alzheimer's patients?",
+                "answer": "neurofibrillary tangles inside them and senile plaques in the space between them"
+            },
+            {
+                "question": "How does Alzheimer's disease affect brain communication?",
+                "answer": "it prevents communication within the brain and damages the connections between brain cells"
+            },
+            {
+                "question": "Why do Alzheimer's patients lose memory?",
+                "answer": "brain cells eventually die, resulting in an inability to recall information"
+            },
+            {
+                "question": "How does disease progression affect the patient's abilities?",
+                "answer": "as Alzheimer's disease affects various brain areas, certain functions or abilities are lost"
+            }
+        ]
+    },
+    {
+        "context": "When a person loses an ability, they rarely regain or relearn it",
+        "questions": [
+            {
+                "question": "Is it possible to recover lost abilities in Alzheimer's disease?",
+                "answer": "they rarely regain or relearn it"
+            },
+            {
+                "question": "What are the chances of relearning skills lost to Alzheimer's?",
+                "answer": "they rarely regain or relearn it"
+            }
+        ]
+    },
+    {
+        "context": "Alzheimer's is a progressive neurodegenerative disease that affects memory and other cognitive functions.",
+        "questions": [
+            {
+                "question": "What is Alzheimer's?",
+                "answer": "Alzheimer's is a progressive neurodegenerative disease that affects memory and other cognitive functions."
+            }
+        ]
+    },
+    {
+        "context": "Early symptoms include frequent forgetfulness, difficulty remembering names, and problems with orientation.",
+        "questions": [
+            {
+                "question": "What are the early symptoms of Alzheimer's?",
+                "answer": "Early symptoms include frequent forgetfulness, difficulty remembering names, and problems with orientation."
+            }
+        ]
+    },
+    {
+        "context": "Alzheimer's has no cure, but there are treatments to slow its progression.",
+        "questions": [
+            {
+                "question": "Is there a cure for Alzheimer's?",
+                "answer": "No, Alzheimer's has no cure, but there are treatments to slow its progression."
+            }
+        ]
+    },
+    {
+        "context": "Advanced age, family history, physical inactivity, smoking, and an unhealthy diet are risk factors for Alzheimer's.",
+        "questions": [
+            {
+                "question": "What are the risk factors for Alzheimer's?",
+                "answer": "Advanced age, family history, physical inactivity, smoking, and an unhealthy diet are risk factors."
+            }
+        ]
+    },
+    {
+        "context": "There is a genetic predisposition to Alzheimer's, but most cases are not directly hereditary.",
+        "questions": [
+            {
+                "question": "Is Alzheimer's hereditary?",
+                "answer": "There is a genetic predisposition, but most cases are not directly hereditary."
+            }
+        ]
+    },
+    {
+        "context": "Diagnosis involves cognitive tests, neurological exams, blood tests, and brain MRI scans.",
+        "questions": [
+            {
+                "question": "How is Alzheimer's diagnosed?",
+                "answer": "Diagnosis involves cognitive tests, neurological exams, blood tests, and brain MRI scans."
+            }
+        ]
+    },
+    {
+        "context": "Dementia is a general term for cognitive function loss. Alzheimer's is a specific type of dementia.",
+        "questions": [
+            {
+                "question": "What is the difference between Alzheimer's and dementia?",
+                "answer": "Dementia is a general term for cognitive function loss. Alzheimer's is a specific type of dementia."
+            }
+        ]
+    },
+    {
+        "context": "Maintaining a healthy diet, exercising, having quality sleep, and keeping the mind active are ways to prevent Alzheimer's.",
+        "questions": [
+            {
+                "question": "How can I prevent Alzheimer's?",
+                "answer": "Maintaining a healthy diet, exercising, having quality sleep, and keeping the mind active are ways to prevent it."
+            }
+        ]
+    },
+    {
+        "context": "There are three main stages of Alzheimer's: mild, moderate, and severe, each with progressively worse symptoms.",
+        "questions": [
+            {
+                "question": "What are the stages of Alzheimer's?",
+                "answer": "There are three main stages: mild, moderate, and severe, each with progressively worse symptoms."
+            }
+        ]
+    },
+    {
+        "context": "Beta-amyloid plaques and tau tangles accumulate in the brain, causing neuron death.",
+        "questions": [
+            {
+                "question": "What happens in the brain of someone with Alzheimer's?",
+                "answer": "Beta-amyloid plaques and tau tangles accumulate, causing neuron death."
+            }
+        ]
+    },
+    {
+        "context": "Medications like donepezil and memantine help slow symptoms, along with cognitive therapies.",
+        "questions": [
+            {
+                "question": "What treatments are available for Alzheimer's?",
+                "answer": "Medications like donepezil and memantine help slow symptoms, along with cognitive therapies."
+            }
+        ]
+    },
+    {
+        "context": "Although rare, early-onset Alzheimer's can affect people before age 65.",
+        "questions": [
+            {
+                "question": "Can young people have Alzheimer's?",
+                "answer": "Yes, although rare, early-onset Alzheimer's can affect people before age 65."
+            }
+        ]
+    },
+    {
+        "context": "Creating a structured routine, providing emotional support, and ensuring a safe environment are essential for helping a family member with Alzheimer's.",
+        "questions": [
+            {
+                "question": "How can I help a family member with Alzheimer's?",
+                "answer": "Creating a structured routine, providing emotional support, and ensuring a safe environment are essential."
+            }
+        ]
+    },
+    {
+        "context": "Alzheimer's is a progressive and fatal disease, usually due to complications like infections and organ failure.",
+        "questions": [
+            {
+                "question": "Can Alzheimer's lead to death?",
+                "answer": "Yes, it is a progressive and fatal disease, usually due to complications like infections and organ failure."
+            }
+        ]
+    },
+    {
+        "context": "Physical activity improves brain circulation and can slow the progression of Alzheimer's.",
+        "questions": [
+            {
+                "question": "Do physical exercises help with Alzheimer's?",
+                "answer": "Yes, physical activity improves brain circulation and can slow disease progression."
+            }
+        ]
+    },
+    {
+        "context": "Alzheimer's disease can cause difficulties in social interactions, making it hard for individuals to maintain relationships.",
+        "questions": [
+            {
+                "question": "How does Alzheimer's disease affect social interactions?",
+                "answer": "It can make it hard for individuals to maintain relationships."
+            },
+            {
+                "question": "What social challenges do people with Alzheimer's face?",
+                "answer": "They may struggle to maintain relationships and interact with others."
+            }
+        ]
+    },
+    {
+        "context": "Alzheimer's disease can lead to a loss of independence, requiring individuals to rely on caregivers for daily tasks.",
+        "questions": [
+            {
+                "question": "How does Alzheimer's disease affect independence?",
+                "answer": "It can lead to a loss of independence, requiring individuals to rely on caregivers for daily tasks."
+            },
+            {
+                "question": "Why do people with Alzheimer's need caregivers?",
+                "answer": "Because they lose independence and need help with daily tasks."
+            }
+        ]
+    },
+    {
+        "context": "Alzheimer's disease can cause individuals to forget recent events while retaining older memories.",
+        "questions": [
+            {
+                "question": "What type of memory is most affected by Alzheimer's disease?",
+                "answer": "Recent events are often forgotten, while older memories may be retained."
+            },
+            {
+                "question": "Why do Alzheimer's patients remember older memories better?",
+                "answer": "Because Alzheimer's primarily affects the ability to recall recent events."
+            }
+        ]
+    },
+    {
+        "context": "Alzheimer's disease can lead to difficulties in understanding time and dates, causing confusion about the present.",
+        "questions": [
+            {
+                "question": "How does Alzheimer's disease affect understanding of time?",
+                "answer": "It can cause confusion about the present, making it difficult to understand time and dates."
+            },
+            {
+                "question": "Why do Alzheimer's patients struggle with dates and time?",
+                "answer": "Because Alzheimer's disease affects their ability to understand the present."
+            }
+        ]
+    },
+    {
+        "context": "Alzheimer's disease can cause individuals to repeat questions or statements due to memory loss.",
+        "questions": [
+            {
+                "question": "Why do Alzheimer's patients repeat questions?",
+                "answer": "Because memory loss causes them to forget they already asked or said something."
+            },
+            {
+                "question": "How does Alzheimer's disease lead to repetitive behavior?",
+                "answer": "Memory loss makes individuals forget they already said or asked something."
+            }
+        ]
+    },
+    {
+        "context": "Alzheimer's disease can make it difficult for individuals to recognize familiar places, leading to disorientation.",
+        "questions": [
+            {
+                "question": "How does Alzheimer's disease affect recognition of familiar places?",
+                "answer": "It can lead to disorientation and difficulty recognizing familiar locations."
+            },
+            {
+                "question": "Why do Alzheimer's patients get lost in familiar places?",
+                "answer": "Because Alzheimer's disease affects their ability to recognize familiar surroundings."
+            }
+        ]
+    },
+    {
+        "context": "Alzheimer's disease can cause individuals to withdraw from social activities due to difficulty communicating.",
+        "questions": [
+            {
+                "question": "Why do Alzheimer's patients withdraw from social activities?",
+                "answer": "Because they face difficulty communicating and interacting with others."
+            },
+            {
+                "question": "How does Alzheimer's disease impact social participation?",
+                "answer": "It can cause individuals to withdraw from social activities due to communication challenges."
+            }
+        ]
+    },
+    {
+        "context": "Alzheimer's disease can lead to changes in personality, such as increased irritability or apathy.",
+        "questions": [
+            {
+                "question": "How does Alzheimer's disease affect personality?",
+                "answer": "It can cause changes such as increased irritability or apathy."
+            },
+            {
+                "question": "What personality changes occur in Alzheimer's patients?",
+                "answer": "They may experience increased irritability or apathy."
+            }
+        ]
+    },
+    {
+        "context": "Alzheimer's disease can cause individuals to misplace items and forget where they put them.",
+        "questions": [
+            {
+                "question": "Why do Alzheimer's patients misplace items?",
+                "answer": "Because memory loss causes them to forget where they put things."
+            },
+            {
+                "question": "How does Alzheimer's disease affect the ability to keep track of belongings?",
+                "answer": "It can cause individuals to misplace items and forget their location."
+            }
+        ]
+    },
+    {
+        "context": "Alzheimer's disease can make it difficult for individuals to follow multi-step instructions.",
+        "questions": [
+            {
+                "question": "How does Alzheimer's disease affect the ability to follow instructions?",
+                "answer": "It makes it difficult to follow multi-step instructions."
+            },
+            {
+                "question": "Why do Alzheimer's patients struggle with multi-step tasks?",
+                "answer": "Because Alzheimer's disease affects their ability to process and remember steps."
+            }
+        ]
+    },
+    {
+        "context": "Alzheimer's disease can lead to difficulty recognizing emotions in others, affecting empathy.",
+        "questions": [
+            {
+                "question": "How does Alzheimer's disease affect empathy?",
+                "answer": "It can make it difficult to recognize emotions in others, affecting empathy."
+            },
+            {
+                "question": "Why do Alzheimer's patients struggle to understand others' emotions?",
+                "answer": "Because Alzheimer's disease affects their ability to recognize emotions."
+            }
+        ]
+    },
+    {
+        "context": "Alzheimer's disease can cause individuals to have difficulty reading or writing due to cognitive decline.",
+        "questions": [
+            {
+                "question": "How does Alzheimer's disease affect reading and writing?",
+                "answer": "It can cause difficulty reading or writing due to cognitive decline."
+            },
+            {
+                "question": "Why do Alzheimer's patients struggle with literacy tasks?",
+                "answer": "Because cognitive decline affects their ability to read and write."
+            }
+        ]
+    },
+    {
+        "context": "Alzheimer's disease can lead to difficulty recognizing familiar faces, even of close family members.",
+        "questions": [
+            {
+                "question": "Why do Alzheimer's patients forget familiar faces?",
+                "answer": "Because Alzheimer's disease affects their ability to recognize familiar faces."
+            },
+            {
+                "question": "How does Alzheimer's disease impact facial recognition?",
+                "answer": "It can make it difficult to recognize familiar faces, even of close family members."
+            }
+        ]
+    },
+    {
+        "context": "Alzheimer's disease can cause individuals to experience hallucinations or delusions in later stages.",
+        "questions": [
+            {
+                "question": "Do Alzheimer's patients experience hallucinations?",
+                "answer": "Yes, hallucinations or delusions can occur in later stages of the disease."
+            },
+            {
+                "question": "How does Alzheimer's disease lead to hallucinations?",
+                "answer": "It can cause hallucinations or delusions as the disease progresses."
+            }
+        ]
+    },
+    {
+        "context": "Alzheimer's disease can make it difficult for individuals to adapt to new environments or routines.",
+        "questions": [
+            {
+                "question": "Why do Alzheimer's patients struggle with new environments?",
+                "answer": "Because Alzheimer's disease makes it difficult to adapt to changes."
+            },
+            {
+                "question": "How does Alzheimer's disease affect adaptability?",
+                "answer": "It can make it hard for individuals to adapt to new environments or routines."
+            }
+        ]
+    },
+    {
+        "context": "Alzheimer's disease can lead to difficulty understanding abstract concepts, such as time or money.",
+        "questions": [
+            {
+                "question": "How does Alzheimer's disease affect understanding of abstract concepts?",
+                "answer": "It can make it difficult to understand concepts like time or money."
+            },
+            {
+                "question": "Why do Alzheimer's patients struggle with abstract thinking?",
+                "answer": "Because Alzheimer's disease affects their ability to process abstract concepts."
+            }
+        ]
+    },
+    {
+        "context": "Alzheimer's disease can cause individuals to lose interest in hobbies or activities they once enjoyed.",
+        "questions": [
+            {
+                "question": "Why do Alzheimer's patients lose interest in hobbies?",
+                "answer": "Because Alzheimer's disease can cause apathy and loss of motivation."
+            },
+            {
+                "question": "How does Alzheimer's disease affect interest in activities?",
+                "answer": "It can lead to a loss of interest in hobbies or activities they once enjoyed."
+            }
+        ]
+    },
+    {
+        "context": "Alzheimer's disease can cause individuals to have difficulty recognizing their own reflection in a mirror.",
+        "questions": [
+            {
+                "question": "Why do Alzheimer's patients not recognize themselves in a mirror?",
+                "answer": "Because Alzheimer's disease affects their ability to recognize their own reflection."
+            },
+            {
+                "question": "How does Alzheimer's disease impact self-recognition?",
+                "answer": "It can make it difficult for individuals to recognize their own reflection in a mirror."
+            }
+        ]
+    },
+    {
+        "context": "Alzheimer's disease can lead to difficulty managing medications, requiring assistance from caregivers.",
+        "questions": [
+            {
+                "question": "Why do Alzheimer's patients need help managing medications?",
+                "answer": "Because Alzheimer's disease affects their ability to remember and organize medication schedules."
+            },
+            {
+                "question": "How does Alzheimer's disease impact medication management?",
+                "answer": "It can make it difficult for individuals to manage medications without assistance."
+            }
+        ]
+    },
+    {
+        "context": "Alzheimer's disease can cause individuals to forget important life events, such as birthdays or anniversaries.",
+        "questions": [
+            {
+                "question": "Why do Alzheimer's patients forget important life events?",
+                "answer": "Because Alzheimer's disease affects their ability to recall significant memories."
+            },
+            {
+                "question": "How does Alzheimer's disease impact memory of life events?",
+                "answer": "It can cause individuals to forget important events, such as birthdays or anniversaries."
+            }
+        ]
+    }
+]
