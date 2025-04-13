@@ -1,0 +1,3380 @@
+[
+        {
+          "context": "Alzheimer's disease (AD) is a neurodegenerative disease that usually starts slowly and progressively worsens. It is the cause of 60–70% of cases of dementia. The most common early symptom is difficulty in remembering recent events.",
+          "qas": [
+            {
+              "question": "What is Alzheimer's disease?",
+              "answers": [
+                {
+                  "text": "a neurodegenerative disease that usually starts slowly and progressively worsens",
+                  "answer_start": 22
+                }
+              ]
+            },
+            {
+              "question": "What is the most common early symptom of Alzheimer's?",
+              "answers": [
+                {
+                  "text": "difficulty in remembering recent events",
+                  "answer_start": 154
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Alzheimer's disease is the most common cause of dementia — a continuous decline in thinking, behavioral and social skills that affects a person's ability to function independently.",
+          "qas": [
+            {
+              "question": "What does Alzheimer's disease cause?",
+              "answers": [
+                {
+                  "text": "a continuous decline in thinking, behavioral and social skills",
+                  "answer_start": 53
+                }
+              ]
+            },
+            {
+              "question": "How does dementia affect a person?",
+              "answers": [
+                {
+                  "text": "affects a person's ability to function independently",
+                  "answer_start": 117
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "There are three general stages of Alzheimer’s disease: early (mild), middle (moderate), and late (severe). Since Alzheimer’s affects people in different ways, the timing and severity of dementia symptoms varies as each person progresses through the stages of Alzheimer’s differently.",
+          "qas": [
+            {
+              "question": "What are the stages of Alzheimer's disease?",
+              "answers": [
+                {
+                  "text": "early (mild), middle (moderate), and late (severe)",
+                  "answer_start": 43
+                }
+              ]
+            },
+            {
+              "question": "Why do dementia symptoms vary in people with Alzheimer's?",
+              "answers": [
+                {
+                  "text": "Alzheimer’s affects people in different ways",
+                  "answer_start": 98
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Doença de Alzheimer é uma doença neurodegenerativa crónica e a forma mais comum de demência. A doença manifesta-se lentamente e vai-se agravando ao longo do tempo. O sintoma inicial mais comum é a perda de memória a curto prazo, com dificuldades em recordar eventos recentes.",
+          "qas": [
+            {
+              "question": "Qual é a forma mais comum de demência?",
+              "answers": [
+                {
+                  "text": "Doença de Alzheimer",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "Qual é o sintoma inicial mais comum da doença de Alzheimer?",
+              "answers": [
+                {
+                  "text": "perda de memória a curto prazo",
+                  "answer_start": 163
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Os primeiros sintomas são geralmente confundidos com o processo normal de envelhecimento ou manifestações de stresse.",
+          "qas": [
+            {
+              "question": "Com o que são geralmente confundidos os primeiros sintomas de Alzheimer?",
+              "answers": [
+                {
+                  "text": "processo normal de envelhecimento ou manifestações de stresse",
+                  "answer_start": 56
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "À medida que a doença evolui, o quadro de sintomas inclui dificuldades na linguagem, desorientação, perder-se com facilidade, alterações de humor, perda de motivação, desinteresse por cuidar de si próprio, desinteresse por tarefas quotidianas e comportamento agressivo.",
+          "qas": [
+            {
+              "question": "Que sintomas aparecem à medida que a doença de Alzheimer evolui?",
+              "answers": [
+                {
+                  "text": "dificuldades na linguagem, desorientação, perder-se com facilidade, alterações de humor, perda de motivação, desinteresse por cuidar de si próprio, desinteresse por tarefas quotidianas e comportamento agressivo",
+                  "answer_start": 54
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Em grande parte dos casos, a pessoa com Alzheimer afasta-se progressivamente da família e da sociedade.",
+          "qas": [
+            {
+              "question": "O que acontece socialmente com pessoas com Alzheimer em grande parte dos casos?",
+              "answers": [
+                {
+                  "text": "afasta-se progressivamente da família e da sociedade",
+                  "answer_start": 39
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Gradualmente, o corpo vai perdendo o controlo das funções corporais, o que acaba por levar à morte.",
+          "qas": [
+            {
+              "question": "O que acontece com as funções corporais à medida que Alzheimer avança?",
+              "answers": [
+                {
+                  "text": "o corpo vai perdendo o controlo das funções corporais",
+                  "answer_start": 14
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Embora a velocidade de progressão possa variar, geralmente a esperança de vida após o diagnóstico é de três a nove anos.",
+          "qas": [
+            {
+              "question": "Qual é a esperança média de vida após o diagnóstico de Alzheimer?",
+              "answers": [
+                {
+                  "text": "três a nove anos",
+                  "answer_start": 99
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "A doença de Alzheimer é a causa de 60–70% dos casos de demência. As causas de Alzheimer ainda não são totalmente compreendidas. Pensa-se que 70% do risco seja de origem genética com vários genes implicados.",
+          "qas": [
+            {
+              "question": "Que percentagem dos casos de demência é causada pela doença de Alzheimer?",
+              "answers": [
+                {
+                  "text": "60–70%",
+                  "answer_start": 35
+                }
+              ]
+            },
+            {
+              "question": "Quanto do risco de Alzheimer se acredita ser genético?",
+              "answers": [
+                {
+                  "text": "70%",
+                  "answer_start": 142
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Entre outros fatores de risco estão antecedentes de lesões na cabeça, depressão e hipertensão arterial.",
+          "qas": [
+            {
+              "question": "Quais são alguns fatores de risco para Alzheimer além da genética?",
+              "answers": [
+                {
+                  "text": "antecedentes de lesões na cabeça, depressão e hipertensão arterial",
+                  "answer_start": 40
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "O mecanismo da doença está associado às placas senis e aos novelos neurofibrilares no cérebro.",
+          "qas": [
+            {
+              "question": "Com que estruturas no cérebro está associado o mecanismo da doença de Alzheimer?",
+              "answers": [
+                {
+                  "text": "placas senis e aos novelos neurofibrilares",
+                  "answer_start": 51
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Quando se suspeita de Alzheimer com base no historial clínico, o diagnóstico é geralmente confirmado com exames que avaliam o comportamento e a capacidade de raciocínio da pessoa, podendo ser realizados exames imagiológicos e análises ao sangue para descartar outras causas.",
+          "qas": [
+            {
+              "question": "Como se confirma geralmente o diagnóstico de Alzheimer?",
+              "answers": [
+                {
+                  "text": "com exames que avaliam o comportamento e a capacidade de raciocínio da pessoa",
+                  "answer_start": 93
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "O risco de Alzheimer pode ser diminuído com exercícios mentais, exercício físico e controlo da obesidade. No entanto, estas recomendações não são apoiadas por evidências fortes.",
+          "qas": [
+            {
+              "question": "Quais as práticas que podem diminuir o risco de Alzheimer?",
+              "answers": [
+                {
+                  "text": "exercícios mentais, exercício físico e controlo da obesidade",
+                  "answer_start": 47
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Não existem medicamentos ou suplementos que tenham demonstrado diminuir o risco.",
+          "qas": [
+            {
+              "question": "Existem medicamentos ou suplementos que diminuam o risco de Alzheimer?",
+              "answers": [
+                {
+                  "text": "Não",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Não existem atualmente tratamentos para parar ou reverter a progressão de Alzheimer, embora alguns possam melhorar temporariamente os sintomas.",
+          "qas": [
+            {
+              "question": "Existem tratamentos que param ou revertem a progressão de Alzheimer?",
+              "answers": [
+                {
+                  "text": "Não",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "À medida que a doença avança, a pessoa torna-se progressivamente dependente da assistência de um cuidador. Em muitos casos, é o cônjuge ou um familiar próximo quem assume o papel de principal cuidador.",
+          "qas": [
+            {
+              "question": "Quem geralmente assume o papel de cuidador de pessoas com Alzheimer?",
+              "answers": [
+                {
+                  "text": "o cônjuge ou um familiar próximo",
+                  "answer_start": 118
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Em 2015 havia aproximadamente 29,8 milhões de pessoas em todo o mundo com Alzheimer.",
+          "qas": [
+            {
+              "question": "Quantas pessoas tinham Alzheimer em todo o mundo em 2015?",
+              "answers": [
+                {
+                  "text": "29,8 milhões",
+                  "answer_start": 32
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "A doença geralmente tem início em pessoas com idade superior a 65 anos, embora 4 a 5% dos casos sejam de início precoce.",
+          "qas": [
+            {
+              "question": "Em que idade geralmente começa a doença de Alzheimer?",
+              "answers": [
+                {
+                  "text": "idade superior a 65 anos",
+                  "answer_start": 51
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "A doença de Alzheimer foi descrita pela primeira vez em 1906 pelo psiquiatra e patologista alemão Alois Alzheimer.",
+          "qas": [
+            {
+              "question": "Quem descreveu a doença de Alzheimer pela primeira vez?",
+              "answers": [
+                {
+                  "text": "Alois Alzheimer",
+                  "answer_start": 96
+                }
+              ]
+            }
+          ]
+        },
+        {
+        "context": "A doença de Alzheimer evolui de forma única em cada pessoa, embora existam sintomas em comum; por exemplo, o sintoma inicial mais comum é a perda de memória.",
+        "qas": [
+          {
+            "question": "A doença de Alzheimer evolui da mesma forma em todas as pessoas?",
+            "answers": [
+              {
+                "text": "de forma única em cada pessoa",
+                "answer_start": 34
+              }
+            ]
+          },
+          {
+            "question": "Qual é o sintoma inicial mais comum da doença de Alzheimer?",
+            "answers": [
+              {
+                "text": "perda de memória",
+                "answer_start": 122
+              }
+            ]
+          }
+        ]
+      },
+        {
+  "context": "Muitas vezes, os primeiros sintomas da doença são confundidos com os processos normais de envelhecimento ou stress.",
+  "qas": [
+    {
+      "question": "Com o que são frequentemente confundidos os primeiros sintomas da doença de Alzheimer?",
+      "answers": [
+        {
+          "text": "processos normais de envelhecimento ou stress",
+          "answer_start": 77
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "Quando se suspeita de Alzheimer, o paciente é submetido a uma série de testes cognitivos e radiológicos para confirmar o diagnóstico.",
+  "qas": [
+    {
+      "question": "Que tipos de testes são usados para confirmar o diagnóstico de Alzheimer?",
+      "answers": [
+        {
+          "text": "testes cognitivos e radiológicos",
+          "answer_start": 65
+        }
+      ]
+    }
+  ]
+},
+     {
+  "context": "Com o avançar da doença vão aparecendo novos sintomas como confusão mental, irritabilidade e agressividade, alterações de humor, falhas na linguagem, perda de memória a longo prazo e o paciente começa a desligar-se da realidade.",
+  "qas": [
+    {
+      "question": "Que novos sintomas aparecem com o avanço da doença de Alzheimer?",
+      "answers": [
+        {
+          "text": "confusão mental, irritabilidade e agressividade, alterações de humor, falhas na linguagem, perda de memória a longo prazo e o paciente começa a desligar-se da realidade",
+          "answer_start": 60
+        }
+      ]
+    }
+  ]
+}
+,
+{
+  "context": "Antes de se tornar totalmente aparente, a doença de Alzheimer evolui ao longo de um período indeterminado de tempo e pode manter-se assintomática durante anos.",
+  "qas": [
+    {
+      "question": "Quanto tempo pode a doença de Alzheimer manter-se assintomática?",
+      "answers": [
+        {
+          "text": "anos",
+          "answer_start": 177
+        }
+      ]
+    }
+  ]
+}
+,
+        {
+  "context": "Os primeiros sintomas são muitas vezes atribuídos, de forma equivocada, ao envelhecimento natural ou ao stresse.",
+  "qas": [
+    {
+      "question": "A que são muitas vezes atribuídos, de forma errada, os primeiros sintomas de Alzheimer?",
+      "answers": [
+        {
+          "text": "envelhecimento natural ou ao stresse",
+          "answer_start": 71
+        }
+      ]
+    }
+  ]
+}
+,
+        {
+  "context": "Alguns testes neuropsicológicos podem revelar deficiências cognitivas moderadas até oito anos antes da pessoa cumprir os critérios de diagnóstico de Alzheimer.",
+  "qas": [
+    {
+      "question": "O que podem revelar alguns testes neuropsicológicos anos antes do diagnóstico de Alzheimer?",
+      "answers": [
+        {
+          "text": "deficiências cognitivas moderadas",
+          "answer_start": 47
+        }
+      ]
+    }
+  ]
+}
+
+        ,
+        {
+  "context": "O mais perceptível défice cognitivo na fase inicial é a perda de memória a curto prazo, ou seja, a dificuldade em recordar factos aprendidos recentemente ou em memorizar nova informação.",
+  "qas": [
+    {
+      "question": "Qual é o défice cognitivo mais perceptível na fase inicial da doença de Alzheimer?",
+      "answers": [
+        {
+          "text": "perda de memória a curto prazo",
+          "answer_start": 66
+        }
+      ]
+    }
+  ]
+}
+,
+        {
+  "context": "Entre outros possíveis sintomas dos estádios iniciais de Alzheimer estão também problemas subtis com as funções executivas da atenção, planeamento, flexibilidade, raciocínio abstrato ou problemas na memória semântica.",
+  "qas": [
+    {
+      "question": "Quais são outros possíveis sintomas nos estádios iniciais de Alzheimer?",
+      "answers": [
+        {
+          "text": "problemas subtis com as funções executivas da atenção, planeamento, flexibilidade, raciocínio abstrato ou problemas na memória semântica",
+          "answer_start": 88
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "Durante este estádio pode também ser observada apatia, que é o mais persistente sintoma neuropsiquiátrico ao longo da evolução da doença.",
+  "qas": [
+    {
+      "question": "Qual é o sintoma neuropsiquiátrico mais persistente na evolução da doença de Alzheimer?",
+      "answers": [
+        {
+          "text": "apatia",
+          "answer_start": 43
+        }
+      ]
+    }
+  ]
+}
+,
+        {
+  "context": "Também são comuns sintomas depressivos, irritabilidade e a diminuição da percepção das próprias dificuldades de memória.",
+  "qas": [
+    {
+      "question": "Quais são alguns dos sintomas emocionais comuns na fase inicial de Alzheimer?",
+      "answers": [
+        {
+          "text": "sintomas depressivos, irritabilidade e a diminuição da percepção das próprias dificuldades de memória",
+          "answer_start": 20
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "Este estádio pré-clínico da doença tem também sido denominado défice cognitivo ligeiro, embora ainda se debata se este termo corresponde a um estádio de diagnóstico distinto ou se identifica o primeiro estádio de Alzheimer.",
+  "qas": [
+    {
+      "question": "Como é denominado o estádio pré-clínico da doença de Alzheimer?",
+      "answers": [
+        {
+          "text": "défice cognitivo ligeiro",
+          "answer_start": 68
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "A progressiva degeneração da memória e da capacidade de aprendizagem características da doença permitem, a dado momento, que seja realizado um diagnóstico conclusivo de Alzheimer.",
+  "qas": [
+    {
+      "question": "O que permite a realização de um diagnóstico conclusivo de Alzheimer?",
+      "answers": [
+        {
+          "text": "progressiva degeneração da memória e da capacidade de aprendizagem",
+          "answer_start": 2
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "Embora na generalidade dos casos os problemas de memória sejam o sintoma mais evidente, numa pequena percentagem de pessoas são mais proeminentes as dificuldades de linguagem, funções executivas, perceção (agnosia) ou execução de movimentos (apraxia).",
+  "qas": [
+    {
+      "question": "Que outros sintomas podem ser mais proeminentes que os problemas de memória em alguns casos de Alzheimer?",
+      "answers": [
+        {
+          "text": "dificuldades de linguagem, funções executivas, perceção (agnosia) ou execução de movimentos (apraxia)",
+          "answer_start": 148
+        }
+      ]
+    }
+  ]
+}
+,
+        {
+  "context": "A doença não afeta todas as capacidades de memória de igual forma. As memórias mais antigas da vida da pessoa (memória episódica), os factos já aprendidos (memória semântica) e a memória implícita (a memória do corpo para realizar ações, como usar um garfo para comer) são menos afetadas pela doença em comparação com novos factos ou memórias recentes.",
+  "qas": [
+    {
+      "question": "Que tipos de memória são menos afetados pela doença de Alzheimer?",
+      "answers": [
+        {
+          "text": "memórias mais antigas da vida da pessoa (memória episódica), os factos já aprendidos (memória semântica) e a memória implícita",
+          "answer_start": 72
+        }
+      ]
+    }
+  ]
+}
+,
+        {
+  "context": "Os problemas na linguagem são caracterizados principalmente pela diminuição do vocabulário e pela diminuição na fluência do discurso, o que leva a um empobrecimento geral da linguagem escrita e oral.",
+  "qas": [
+    {
+      "question": "Como são caracterizados os problemas na linguagem em pessoas com Alzheimer?",
+      "answers": [
+        {
+          "text": "diminuição do vocabulário e pela diminuição na fluência do discurso",
+          "answer_start": 63
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "Durante este estádio geralmente a pessoa com Alzheimer ainda é capaz de comunicar ideias básicas de forma adequada.",
+  "qas": [
+    {
+      "question": "Durante o estádio inicial, o que a pessoa com Alzheimer ainda consegue fazer em termos de comunicação?",
+      "answers": [
+        {
+          "text": "comunicar ideias básicas de forma adequada",
+          "answer_start": 63
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "As dificuldades de coordenação e de planeamento (apraxia) podem se manifestar durante a realização de tarefas motoras finas, como ao escrever, desenhar ou vestir-se, embora sejam geralmente impercetíveis.",
+  "qas": [
+    {
+      "question": "O que pode manifestar-se durante a realização de tarefas motoras finas em pessoas com Alzheimer?",
+      "answers": [
+        {
+          "text": "dificuldades de coordenação e de planeamento (apraxia)",
+          "answer_start": 3
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "À medida que a doença progride, as pessoas com Alzheimer conseguem realizar muitas tarefas de forma autónoma, embora possam precisar de assistência ou supervisão para as atividades de maior exigência cognitiva.",
+  "qas": [
+    {
+      "question": "Do que podem precisar as pessoas com Alzheimer à medida que a doença progride?",
+      "answers": [
+        {
+          "text": "assistência ou supervisão para as atividades de maior exigência cognitiva",
+          "answer_start": 114
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "A determinado ponto, a progressiva degeneração cognitiva afeta a independência da pessoa, a qual se mostra incapaz de realizar a maior parte das atividades do dia a dia.",
+  "qas": [
+    {
+      "question": "O que acontece à independência da pessoa com Alzheimer com a progressão da doença?",
+      "answers": [
+        {
+          "text": "incapaz de realizar a maior parte das atividades do dia a dia",
+          "answer_start": 115
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "As dificuldades na linguagem tornam-se evidentes devido à incapacidade em se recordar de vocabulário, o que leva a substituições incorretas de palavras de forma frequente (parafasia). As capacidades de leitura e de escrita também são progressivamente perdidas.",
+  "qas": [
+    {
+      "question": "O que acontece às capacidades de leitura e escrita em pessoas com Alzheimer?",
+      "answers": [
+        {
+          "text": "são progressivamente perdidas",
+          "answer_start": 216
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "À medida que a doença progride, diminui a coordenação nas sequências motoras mais complexas, pelo que o risco de sofrer uma queda aumenta.",
+  "qas": [
+    {
+      "question": "Que risco aumenta devido à diminuição da coordenação em pessoas com Alzheimer?",
+      "answers": [
+        {
+          "text": "risco de sofrer uma queda",
+          "answer_start": 123
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "Durante esta fase agravam-se também os problemas com a memória e a pessoa pode deixar de reconhecer familiares próximos.",
+  "qas": [
+    {
+      "question": "O que pode acontecer em relação aos familiares à medida que a doença de Alzheimer avança?",
+      "answers": [
+        {
+          "text": "pessoa pode deixar de reconhecer familiares próximos",
+          "answer_start": 78
+        }
+      ]
+    }
+  ]
+},{
+  "context": "Começam também a ser visíveis défices na memória a longo prazo, que em estádios anteriores se mantinha intacta.",
+  "qas": [
+    {
+      "question": "Que tipo de memória começa a ser afetada em fases mais avançadas da doença de Alzheimer?",
+      "answers": [
+        {
+          "text": "memória a longo prazo",
+          "answer_start": 37
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "As manifestações mais comuns são um estado geral de confusão e ausência, irritabilidade e episódios incontroláveis de manifestações emotivas, como choro, agressão involuntária ou resistência à prestação de cuidados de saúde.",
+  "qas": [
+    {
+      "question": "Quais são algumas manifestações emocionais comuns em fases avançadas da doença de Alzheimer?",
+      "answers": [
+        {
+          "text": "estado geral de confusão e ausência, irritabilidade e episódios incontroláveis de manifestações emotivas",
+          "answer_start": 45
+        }
+      ]
+    }
+  ]
+},{
+  "context": "Cerca de 30% das pessoas com Alzheimer desenvolvem sintomas de delírio.",
+  "qas": [
+    {
+      "question": "Que percentagem de pessoas com Alzheimer desenvolve delírio?",
+      "answers": [
+        {
+          "text": "30%",
+          "answer_start": 6
+        }
+      ]
+    }
+  ]
+}
+,
+{
+  "context": "As pessoas perdem também a consciência do processo e das limitações da sua própria doença (anosognosia).",
+  "qas": [
+    {
+      "question": "Que nome se dá à perda de consciência das próprias limitações em pessoas com Alzheimer?",
+      "answers": [
+        {
+          "text": "anosognosia",
+          "answer_start": 95
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "Pode também aparecer incontinência urinária.",
+  "qas": [
+    {
+      "question": "Que problema de controlo corporal pode surgir em fases avançadas da doença de Alzheimer?",
+      "answers": [
+        {
+          "text": "incontinência urinária",
+          "answer_start": 19
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "Estes sintomas geram stresse para os familiares e cuidadores, que pode ser diminuído inscrevendo a pessoa em apoio domiciliário ou lares de repouso.",
+  "qas": [
+    {
+      "question": "Como pode ser diminuído o stresse dos cuidadores de pessoas com Alzheimer?",
+      "answers": [
+        {
+          "text": "inscrevendo a pessoa em apoio domiciliário ou lares de repouso",
+          "answer_start": 90
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "Durante a última fase da doença, a pessoa está completamente dependente dos cuidadores.",
+  "qas": [
+    {
+      "question": "Durante a última fase da doença, de quem depende completamente a pessoa com Alzheimer?",
+      "answers": [
+        {
+          "text": "cuidadores",
+          "answer_start": 76
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "A linguagem é reduzida a frases simples ou até a palavras isoladas, levando eventualmente à perda completa da capacidade de se exprimir verbalmente.",
+  "qas": [
+    {
+      "question": "O que acontece à capacidade de linguagem nas fases finais de Alzheimer?",
+      "answers": [
+        {
+          "text": "perda completa da capacidade de se exprimir verbalmente",
+          "answer_start": 102
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "Apesar da perda da linguagem verbal, muitas vezes as pessoas continuam a compreender e responder a sinais emocionais.",
+  "qas": [
+    {
+      "question": "Apesar da perda da linguagem verbal, o que muitas vezes as pessoas com Alzheimer ainda conseguem fazer?",
+      "answers": [
+        {
+          "text": "compreender e responder a sinais emocionais",
+          "answer_start": 71
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "Embora a agressividade ainda possa estar presente, a apatia extrema e o cansaço são sintomas muito mais comuns.",
+  "qas": [
+    {
+      "question": "Quais são os sintomas mais comuns na fase final da doença de Alzheimer?",
+      "answers": [
+        {
+          "text": "apatia extrema e o cansaço",
+          "answer_start": 64
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "Nesta fase, as pessoas com a doença acabam por não conseguir realizar sem assistência até mesmo as tarefas mais simples.",
+  "qas": [
+    {
+      "question": "O que as pessoas com Alzheimer deixam de conseguir fazer sem assistência nas fases finais?",
+      "answers": [
+        {
+          "text": "realizar até mesmo as tarefas mais simples",
+          "answer_start": 78
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "A massa muscular e a mobilidade degeneram-se ao ponto em que a pessoa não consegue sair da cama e perde a capacidade de alimentar a si própria.",
+  "qas": [
+    {
+      "question": "O que acontece à massa muscular e à mobilidade nas fases finais da doença de Alzheimer?",
+      "answers": [
+        {
+          "text": "degeneram-se",
+          "answer_start": 41
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "Alzheimer é uma doença terminal, em que a causa direta de morte não é a doença em si, mas geralmente um fator externo, como uma infeção por escaras ou pneumonia.",
+  "qas": [
+    {
+      "question": "O que geralmente causa a morte de pessoas com Alzheimer?",
+      "answers": [
+        {
+          "text": "fator externo, como uma infeção por escaras ou pneumonia",
+          "answer_start": 107
+        }
+      ]
+    }
+  ]
+},
+      {
+  "context": "As causas de maior parte dos casos de Alzheimer são ainda desconhecidas, exceto em 1-5% dos casos onde têm sido identificadas diferenças genéticas.",
+  "qas": [
+    {
+      "question": "Em que percentagem dos casos de Alzheimer foram identificadas diferenças genéticas?",
+      "answers": [
+        {
+          "text": "1-5%",
+          "answer_start": 97
+        }
+      ]
+    }
+  ]
+}
+,
+        {
+  "context": "Com base em revisões de estudos entre gémeos e família, a hereditariedade genética da doença de Alzheimer varia entre 49% e 79%.",
+  "qas": [
+    {
+      "question": "Qual é a percentagem estimada de hereditariedade genética na doença de Alzheimer?",
+      "answers": [
+        {
+          "text": "49% e 79%",
+          "answer_start": 103
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "Cerca de 0,1% dos casos são formas familiares de transmissão autossómica dominante, as quais geralmente ocorrem antes dos 65 anos de idade.",
+  "qas": [
+    {
+      "question": "Em que percentagem dos casos de Alzheimer existe transmissão autossómica dominante?",
+      "answers": [
+        {
+          "text": "0,1%",
+          "answer_start": 7
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "A maior parte das mutações nestes genes aumenta a produção de uma pequena proteína denominada Aβ42, a qual é o principal componente das placas senis.",
+  "qas": [
+    {
+      "question": "Qual proteína é o principal componente das placas senis em Alzheimer?",
+      "answers": [
+        {
+          "text": "Aβ42",
+          "answer_start": 91
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "A maior parte dos casos de Alzheimer não evidencia transmissão autossómica dominante, sendo nesse caso denominados 'doença de Alzheimer esporádica'.",
+  "qas": [
+    {
+      "question": "Como se denomina a maioria dos casos de Alzheimer que não têm transmissão autossómica dominante?",
+      "answers": [
+        {
+          "text": "doença de Alzheimer esporádica",
+          "answer_start": 126
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "O fator de risco genético melhor compreendido é a hereditariedade do alelo ε4 da apolipoproteína E (APOE).",
+  "qas": [
+    {
+      "question": "Qual é o fator de risco genético melhor compreendido para Alzheimer?",
+      "answers": [
+        {
+          "text": "hereditariedade do alelo ε4 da apolipoproteína E (APOE)",
+          "answer_start": 58
+        }
+      ]
+    }
+  ]
+}
+,
+        {
+  "context": "Entre 40 e 80% das pessoas com Alzheimer possuem pelo menos um alelo APOEε4.",
+  "qas": [
+    {
+      "question": "Que percentagem de pessoas com Alzheimer possuem pelo menos um alelo APOEε4?",
+      "answers": [
+        {
+          "text": "Entre 40 e 80%",
+          "answer_start": 0
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "O alelo APOEε4 aumenta o risco de vir a sofrer da doença em três vezes nos heterozigotos e quinze vezes nos homozigotos.",
+  "qas": [
+    {
+      "question": "Quanto aumenta o risco de Alzheimer em heterozigotos com o alelo APOEε4?",
+      "answers": [
+        {
+          "text": "três vezes",
+          "answer_start": 71
+        }
+      ]
+    },
+    {
+      "question": "Quanto aumenta o risco de Alzheimer em homozigotos com o alelo APOEε4?",
+      "answers": [
+        {
+          "text": "quinze vezes",
+          "answer_start": 100
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "As mutações no gene TREM2 têm sido associadas a um risco 3 a 5 vezes maior de vir a desenvolver Alzheimer.",
+  "qas": [
+    {
+      "question": "Que risco está associado a mutações no gene TREM2 para Alzheimer?",
+      "answers": [
+        {
+          "text": "risco 3 a 5 vezes maior",
+          "answer_start": 56
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "Os estudos de associação pangenómica recentes verificaram a existência de dezanove áreas nos genes que aparentam afetar o risco de Alzheimer.",
+  "qas": [
+    {
+      "question": "Quantas áreas genéticas foram recentemente identificadas como afetando o risco de Alzheimer?",
+      "answers": [
+        {
+          "text": "dezanove áreas",
+          "answer_start": 85
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "A hipótese colinérgica propõe que a doença de Alzheimer seja provocada por uma insuficiência na síntese do neurotransmissor acetilcolina.",
+  "qas": [
+    {
+      "question": "O que propõe a hipótese colinérgica sobre a causa de Alzheimer?",
+      "answers": [
+        {
+          "text": "insuficiência na síntese do neurotransmissor acetilcolina",
+          "answer_start": 84
+        }
+      ]
+    }
+  ]
+}
+,
+
+        {
+  "context": "Em 1991, a hipótese amiloide postulou que os depósitos extracelulares de beta amiloides (Aβ) são a causa fundamental da doença de Alzheimer.",
+  "qas": [
+    {
+      "question": "O que postulou a hipótese amiloide sobre a causa da doença de Alzheimer?",
+      "answers": [
+        {
+          "text": "depósitos extracelulares de beta amiloides (Aβ)",
+          "answer_start": 65
+        }
+      ]
+    }
+  ]
+}
+,
+       {
+  "context": "Existe uma isoforma específica da apolipoproteína, denominada APOE4, que é um fator de risco genético significativo para a doença.",
+  "qas": [
+    {
+      "question": "Qual isoforma da apolipoproteína é um fator de risco genético significativo para Alzheimer?",
+      "answers": [
+        {
+          "text": "APOE4",
+          "answer_start": 63
+        }
+      ]
+    }
+  ]
+}
+,
+        {
+  "context": "Os oligómeros de beta amiloide (ADDL) ligam-se a um recetor de superfície nos neurónios e alteram a estrutura da sinapse, interrompendo a comunicação entre neurónios.",
+  "qas": [
+    {
+      "question": "O que fazem os oligómeros de beta amiloide aos neurónios?",
+      "answers": [
+        {
+          "text": "alteram a estrutura da sinapse, interrompendo a comunicação entre neurónios",
+          "answer_start": 101
+        }
+      ]
+    }
+  ]
+}
+,
+
+        {
+  "context": "Os oligómeros de beta amiloide (ADDL) ligam-se a um recetor de superfície nos neurónios e alteram a estrutura da sinapse, interrompendo a comunicação entre neurónios.",
+  "qas": [
+    {
+      "question": "O que fazem os oligómeros de beta amiloide aos neurónios?",
+      "answers": [
+        {
+          "text": "alteram a estrutura da sinapse, interrompendo a comunicação entre neurónios",
+          "answer_start": 101
+        }
+      ]
+    }
+  ]
+}
+,
+        {
+  "context": "Um dos possíveis recetores dos oligómeros Aβ é a proteína prião, a mesma proteína associada à doença das vacas loucas e à doença de Creutzfeldt-Jakob.",
+  "qas": [
+    {
+      "question": "Qual proteína é sugerida como recetor dos oligómeros Aβ?",
+      "answers": [
+        {
+          "text": "proteína prião",
+          "answer_start": 51
+        }
+      ]
+    }
+  ]
+}
+
+        ,
+ {
+  "context": "A hipótese da proteína tau propõe que a doença seja desencadeada por anormalidades na proteína tau.",
+  "qas": [
+    {
+      "question": "O que propõe a hipótese da proteína tau sobre Alzheimer?",
+      "answers": [
+        {
+          "text": "anormalidades na proteína tau",
+          "answer_start": 78
+        }
+      ]
+    }
+  ]
+}
+
+,
+
+{
+  "context": "A doença de Alzheimer interrompe a homeostase celular do cobre, ferro e zinco iónicos.",
+  "qas": [
+    {
+      "question": "Que elementos têm a homeostase interrompida na doença de Alzheimer?",
+      "answers": [
+        {
+          "text": "cobre, ferro e zinco iónicos",
+          "answer_start": 53
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "Outra hipótese sustenta que a doença possa ser causada pela desagregação da mielina no cérebro devido à idade, processo que liberta ferro e provoca mais lesões.",
+  "qas": [
+    {
+      "question": "Que processo relacionado com a mielina pode estar ligado ao Alzheimer?",
+      "answers": [
+        {
+          "text": "desagregação da mielina",
+          "answer_start": 87
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "Tem também sido proposto que o tipo 1 do vírus da herpes simplex desempenha um papel de causa em pessoas portadoras de versões susceptíveis do gene APOE.",
+  "qas": [
+    {
+      "question": "Que vírus foi proposto como possível causa para Alzheimer?",
+      "answers": [
+        {
+          "text": "tipo 1 do vírus da herpes simplex",
+          "answer_start": 41
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "As pessoas com Alzheimer revelam uma perda de 70% das células do cerúleo, que fornecem noradrenalina, um agente anti-inflamatório nos neurónios.",
+  "qas": [
+    {
+      "question": "Que perda celular significativa é observada em pessoas com Alzheimer?",
+      "answers": [
+        {
+          "text": "perda de 70% das células do cerúleo",
+          "answer_start": 41
+        }
+      ]
+    }
+  ]
+}
+,
+        {
+  "context": "Uma pesquisa propõe que interações entre ferro e amiloide produzem compostos de ferro quimicamente reduzidos, incluindo a magnetita, que podem ser responsáveis pela toxicidade em Alzheimer.",
+  "qas": [
+    {
+      "question": "Que composto produzido pelas interações entre ferro e amiloide pode contribuir para Alzheimer?",
+      "answers": [
+        {
+          "text": "magnetita",
+          "answer_start": 141
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "O fumo de tabaco é um fator de risco significativo de Alzheimer.",
+  "qas": [
+    {
+      "question": "Que hábito é um fator de risco significativo para Alzheimer?",
+      "answers": [
+        {
+          "text": "fumo de tabaco",
+          "answer_start": 2
+        }
+      ]
+    }
+  ]
+}
+,
+        {
+  "context": "Existem também evidências conjeturais de que a exposição à poluição do ar possa constituir um fator para o desenvolvimento de Alzheimer.",
+  "qas": [
+    {
+      "question": "Que fator ambiental é suspeito de contribuir para o desenvolvimento de Alzheimer?",
+      "answers": [
+        {
+          "text": "exposição à poluição do ar",
+          "answer_start": 68
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "A doença de Alzheimer é caracterizada pela perda de neurónios e sinapses no córtex cerebral e em determinadas áreas subcorticais.",
+  "qas": [
+    {
+      "question": "O que caracteriza a doença de Alzheimer em termos de estrutura cerebral?",
+      "answers": [
+        {
+          "text": "perda de neurónios e sinapses no córtex cerebral e em determinadas áreas subcorticais",
+          "answer_start": 50
+        }
+      ]
+    }
+  ]
+}
+,
+        {
+  "context": "Esta perda provoca a atrofia das áreas afetadas, incluindo degeneração no lobo temporal, no lobo parietal e em partes do lobo frontal e do giro do cíngulo.",
+  "qas": [
+    {
+      "question": "Quais áreas do cérebro sofrem degeneração na doença de Alzheimer?",
+      "answers": [
+        {
+          "text": "lobo temporal, lobo parietal e partes do lobo frontal e do giro do cíngulo",
+          "answer_start": 61
+        }
+      ]
+    }
+  ]
+}
+,
+        {
+  "context": "A degeneração ocorre também nos núcleos do tronco cerebral, como o cerúleo.",
+  "qas": [
+    {
+      "question": "Que parte do tronco cerebral é afetada pela degeneração na doença de Alzheimer?",
+      "answers": [
+        {
+          "text": "cerúleo",
+          "answer_start": 67
+        }
+      ]
+    }
+  ]
+},
+
+     {
+  "context": "Os estudos com IRM e TEP documentam diminuições no tamanho de determinadas áreas do cérebro à medida que a doença evolui de défice cognitivo ligeiro para Alzheimer, em comparação com imagens semelhantes de idosos saudáveis.",
+  "qas": [
+    {
+      "question": "O que mostram os estudos de IRM e TEP no cérebro de pessoas com Alzheimer?",
+      "answers": [
+        {
+          "text": "diminuições no tamanho de determinadas áreas do cérebro",
+          "answer_start": 38
+        }
+      ]
+    }
+  ]
+}
+,{
+  "context": "Tanto as placas amiloides como os novelos neurofibrilares são claramente observáveis ao microscópio no cérebro de pessoas com Alzheimer.",
+  "qas": [
+    {
+      "question": "O que é claramente observável ao microscópio no cérebro de pessoas com Alzheimer?",
+      "answers": [
+        {
+          "text": "placas amiloides e novelos neurofibrilares",
+          "answer_start": 10
+        }
+      ]
+    }
+  ]
+}
+,
+   {
+  "context": "As placas são depósitos densos e praticamente insolúveis de peptídeos beta amiloides e material celular no exterior e em redor dos neurónios.",
+  "qas": [
+    {
+      "question": "Do que são compostas as placas no cérebro de pessoas com Alzheimer?",
+      "answers": [
+        {
+          "text": "peptídeos beta amiloides e material celular",
+          "answer_start": 64
+        }
+      ]
+    }
+  ]
+}
+,
+{
+  "context": "Os novelos são agregados de proteína tau associada aos microtúbulos que se tornou hiperfosforilada e se acumulou no próprio interior das células.",
+  "qas": [
+    {
+      "question": "De que são compostos os novelos encontrados no cérebro de pessoas com Alzheimer?",
+      "answers": [
+        {
+          "text": "proteína tau associada aos microtúbulos",
+          "answer_start": 27
+        }
+      ]
+    }
+  ]
+}
+,
+       {
+  "context": "Embora alguns idosos possam desenvolver placas e novelos devido ao processo de envelhecimento, o cérebro de pessoas com Alzheimer apresenta um número muito superior em áreas específicas, como no lobo temporal.",
+  "qas": [
+    {
+      "question": "Em que área específica do cérebro se encontram mais placas e novelos em pessoas com Alzheimer?",
+      "answers": [
+        {
+          "text": "lobo temporal",
+          "answer_start": 214
+        }
+      ]
+    }
+  ]
+}
+
+        ,
+        {
+  "context": "Os corpos de Lewy não são incomuns em pessoas com Alzheimer.",
+  "qas": [
+    {
+      "question": "Que tipo de corpos celulares podem ser encontrados em pessoas com Alzheimer?",
+      "answers": [
+        {
+          "text": "corpos de Lewy",
+          "answer_start": 3
+        }
+      ]
+    }
+  ]
+}
+,
+       {
+  "context": "A doença de Alzheimer é uma proteopatia, ou seja, uma doença caracterizada por anomalias no enovelamento de proteínas.",
+  "qas": [
+    {
+      "question": "Que tipo de doença é a doença de Alzheimer em termos de proteínas?",
+      "answers": [
+        {
+          "text": "proteopatia",
+          "answer_start": 32
+        }
+      ]
+    }
+  ]
+}
+,
+      {
+  "context": "As placas são constituídas por pequenos peptídeos com 39-43 aminoácidos de comprimento, denominados beta amiloides (Aβ).",
+  "qas": [
+    {
+      "question": "De que são constituídas as placas no cérebro de pessoas com Alzheimer?",
+      "answers": [
+        {
+          "text": "pequenos peptídeos com 39-43 aminoácidos de comprimento",
+          "answer_start": 40
+        }
+      ]
+    }
+  ]
+}
+
+        ,
+
+{
+  "context": "Os beta amiloides são fragmentos de uma proteína maior denominada proteína precursora de amiloide (APP), uma proteína transmembranar que penetra a membrana dos neurónios.",
+  "qas": [
+    {
+      "question": "Qual é a proteína da qual se originam os beta amiloides?",
+      "answers": [
+        {
+          "text": "proteína precursora de amiloide (APP)",
+          "answer_start": 65
+        }
+      ]
+    }
+  ]
+}
+,
+     {
+  "context": "A APP é essencial para o crescimento, sobrevivência e reparação de lesões dos neurónios.",
+  "qas": [
+    {
+      "question": "Para que é essencial a proteína APP?",
+      "answers": [
+        {
+          "text": "crescimento, sobrevivência e reparação de lesões dos neurónios",
+          "answer_start": 20
+        }
+      ]
+    }
+  ]
+}
+,
+     {
+  "context": "Na doença de Alzheimer existe um processo desconhecido que faz com que a APP se divida em fragmentos menores de enzima ß através de proteólise. Um destes fragmentos dá origem a fibrilos de beta amiloide, que formam grupos que se depositam no exterior dos neurónios em formações densas conhecidas como placas senis.",
+  "qas": [
+    {
+      "question": "Que formação resulta dos fragmentos de beta amiloide no Alzheimer?",
+      "answers": [
+        {
+          "text": "placas senis",
+          "answer_start": 253
+        }
+      ]
+    }
+  ]
+}
+,
+     {
+  "context": "A doença de Alzheimer também é considerada uma taupatia devido à agregação anormal de proteína tau.",
+  "qas": [
+    {
+      "question": "Que outro tipo de doença é considerada a doença de Alzheimer além de proteopatia?",
+      "answers": [
+        {
+          "text": "taupatia",
+          "answer_start": 59
+        }
+      ]
+    }
+  ]
+}
+,
+     {
+  "context": "Cada neurónio tem um citoesqueleto, uma estrutura interna de suporte constituída parcialmente por estruturas denominadas microtúbulos.",
+  "qas": [
+    {
+      "question": "Que estrutura interna dos neurónios é parcialmente constituída por microtúbulos?",
+      "answers": [
+        {
+          "text": "citoesqueleto",
+          "answer_start": 24
+        }
+      ]
+    }
+  ]
+}
+,
+
+{
+  "context": "Um destes fragmentos dá origem a fibrilos de beta amiloide, que formam grupos que se depositam no exterior dos neurónios em formações densas conhecidas como placas senis.",
+  "qas": [
+    {
+      "question": "Como se chamam as formações densas resultantes dos fibrilos de beta amiloide?",
+      "answers": [
+        {
+          "text": "placas senis",
+          "answer_start": 168
+        }
+      ]
+    }
+  ]
+}
+,
+
+{
+  "context": "A doença de Alzheimer também é considerada uma taupatia devido à agregação anormal de proteína tau.",
+  "qas": [
+    {
+      "question": "Por que razão Alzheimer também é considerada uma taupatia?",
+      "answers": [
+        {
+          "text": "agregação anormal de proteína tau",
+          "answer_start": 69
+        }
+      ]
+    }
+  ]
+}
+,
+
+
+
+{
+  "context": "Os microtúbulos atuam como carris, orientando os nutrientes e as moléculas do corpo das células para as extremidades dos axónios e vice-versa.",
+  "qas": [
+    {
+      "question": "Qual é a função dos microtúbulos nos neurónios?",
+      "answers": [
+        {
+          "text": "orientando os nutrientes e as moléculas do corpo das células para as extremidades dos axónios",
+          "answer_start": 42
+        }
+      ]
+    }
+  ]
+}
+,
+
+{
+  "context": "Na doença de Alzheimer, a proteína tau sofre alterações químicas, tornando-se hiperfosforilada, e começa a associar-se com outros novelos.",
+  "qas": [
+    {
+      "question": "O que acontece à proteína tau na doença de Alzheimer?",
+      "answers": [
+        {
+          "text": "torna-se hiperfosforilada e começa a associar-se com outros novelos",
+          "answer_start": 79
+        }
+      ]
+    }
+  ]
+}
+,
+
+{
+  "context": "A acumulação de agregados de fibrilos, os quais se acredita serem a forma tóxica da proteína, interfere com a homeostase de iões de cálcio da célula e induz morte celular programada.",
+  "qas": [
+    {
+      "question": "O que provocam os agregados de beta amiloide nas células?",
+      "answers": [
+        {
+          "text": "interferência com a homeostase de iões de cálcio e morte celular programada",
+          "answer_start": 117
+        }
+      ]
+    }
+  ]
+}
+,
+
+
+
+{
+  "context": "O Aβ acumula-se na mitocôndria das células de cérebros de Alzheimer, inibindo funções enzimáticas e a utilização de glicose pelos neurónios.",
+  "qas": [
+    {
+      "question": "O que causa a acumulação de beta amiloide nas mitocôndrias em Alzheimer?",
+      "answers": [
+        {
+          "text": "inibição de funções enzimáticas e da utilização de glicose pelos neurónios",
+          "answer_start": 100
+        }
+      ]
+    }
+  ]
+}
+,
+
+
+{
+  "context": "A inflamação é um marcador genérico de lesões no tecido em qualquer doença, e pode ser secundária às lesões no tecido em Alzheimer ou uma resposta imunitária.",
+  "qas": [
+    {
+      "question": "Qual é o papel da inflamação na doença de Alzheimer?",
+      "answers": [
+        {
+          "text": "pode ser secundária às lesões no tecido em Alzheimer ou uma resposta imunitária",
+          "answer_start": 113
+        }
+      ]
+    }
+  ]
+}
+,
+
+
+{
+  "context": "Têm também sido descritas alterações na distribuição de diferentes fatores neurotróficos e na expressão dos seus recetores, como o fator neurotrófico derivado do cérebro (BDNF).",
+  "qas": [
+    {
+      "question": "Que fator neurotrófico tem alterações na doença de Alzheimer?",
+      "answers": [
+        {
+          "text": "fator neurotrófico derivado do cérebro (BDNF)",
+          "answer_start": 149
+        }
+      ]
+    }
+  ]
+}
+,
+{
+  "context": "O diagnóstico da doença de Alzheimer é geralmente baseado na observação comportamental e no historial clínico da pessoa e respetivos familiares.",
+  "qas": [
+    {
+      "question": "Em que se baseia geralmente o diagnóstico da doença de Alzheimer?",
+      "answers": [
+        {
+          "text": "observação comportamental e no historial clínico",
+          "answer_start": 62
+        }
+      ]
+    }
+  ]
+}
+,
+        {
+  "context": "A exclusão de outras patologias cerebrais ou outros subtipos de demência pode ser auxiliada por técnicas de imagiologia médica, como TAC, IRM, SPECT ou TEP.",
+  "qas": [
+    {
+      "question": "Que técnicas de imagiologia médica podem auxiliar no diagnóstico de Alzheimer?",
+      "answers": [
+        {
+          "text": "TAC, IRM, SPECT ou TEP",
+          "answer_start": 137
+        }
+      ]
+    }
+  ]
+}
+,
+
+
+{
+  "context": "Estas técnicas permitem ainda prever a evolução de estádios pródromos (défice cognitivo ligeiro) para a doença de Alzheimer.",
+  "qas": [
+    {
+      "question": "Que tipo de evolução pode ser prevista pelas técnicas de imagiologia no Alzheimer?",
+      "answers": [
+        {
+          "text": "evolução de estádios pródromos (défice cognitivo ligeiro) para a doença de Alzheimer",
+          "answer_start": 43
+        }
+      ]
+    }
+  ]
+}
+,
+
+
+{
+  "context": "O estado da doença pode ser caracterizado em maior profundidade através da avaliação das funções intelectuais, entre as quais a avaliação da memória.",
+  "qas": [
+    {
+      "question": "Como pode ser caracterizado o estado da doença de Alzheimer em maior profundidade?",
+      "answers": [
+        {
+          "text": "avaliação das funções intelectuais",
+          "answer_start": 73
+        }
+      ]
+    }
+  ]
+}
+,
+
+{
+  "context": "O diagnóstico pode ser confirmado com elevado grau de precisão através de um exame histológico ao tecido cerebral após a morte.",
+  "qas": [
+    {
+      "question": "Como pode ser confirmado com precisão o diagnóstico da doença de Alzheimer?",
+      "answers": [
+        {
+          "text": "exame histológico ao tecido cerebral após a morte",
+          "answer_start": 76
+        }
+      ]
+    }
+  ]
+}
+,
+
+{
+  "context": "Os critérios internacionais mais utilizados no diagnóstico de demência são os propostos pelo Manual de Diagnóstico e Estatística da Associação Americana de Psiquiatria (DSM-IV-TR).",
+  "qas": [
+    {
+      "question": "Quais são os critérios internacionais mais utilizados no diagnóstico de demência?",
+      "answers": [
+        {
+          "text": "Manual de Diagnóstico e Estatística da Associação Americana de Psiquiatria (DSM-IV-TR)",
+          "answer_start": 106
+        }
+      ]
+    }
+  ]
+}
+,
+        {
+  "context": "O DSM-IV-TR define demência como o desenvolvimento de múltiplos défices cognitivos que incluem obrigatoriamente o compromisso da memória a curto prazo e pelo menos outra perturbação cognitiva.",
+  "qas": [
+    {
+      "question": "Que défices são obrigatórios segundo o DSM-IV-TR para diagnóstico de demência?",
+      "answers": [
+        {
+          "text": "compromisso da memória a curto prazo e pelo menos outra perturbação cognitiva",
+          "answer_start": 134
+        }
+      ]
+    }
+  ]
+}
+
+        ,
+        {
+  "context": "Para o diagnóstico específico da doença de Alzheimer, os critérios mais utilizados são os do DSM-IV-TR e os critérios de Alzheimer NINCDS-ADRDA.",
+  "qas": [
+    {
+      "question": "Quais são os critérios utilizados para diagnóstico específico da doença de Alzheimer?",
+      "answers": [
+        {
+          "text": "DSM-IV-TR e critérios de Alzheimer NINCDS-ADRDA",
+          "answer_start": 94
+        }
+      ]
+    }
+  ]
+}
+,
+    {
+  "context": "Os critérios NINCDS-ADRDA especificam que o diagnóstico definitivo só é possível mediante uma análise histopatológica, incluindo um exame microscópico ao tecido cerebral.",
+  "qas": [
+    {
+      "question": "O que é necessário para confirmar definitivamente a doença de Alzheimer?",
+      "answers": [
+        {
+          "text": "análise histopatológica, incluindo um exame microscópico ao tecido cerebral",
+          "answer_start": 99
+        }
+      ]
+    }
+  ]
+}
+,
+      {
+  "context": "Tanto os critérios NINCDS-ADRDA como os DSM-IV-TR especificam os oito domínios cognitivos que são debilitados pela doença de Alzheimer: memória, linguagem, perceção, atenção, capacidades construtivas, orientação, resolução de problemas e capacidades funcionais.",
+  "qas": [
+    {
+      "question": "Que domínios cognitivos são debilitados pela doença de Alzheimer segundo os critérios?",
+      "answers": [
+        {
+          "text": "memória, linguagem, perceção, atenção, capacidades construtivas, orientação, resolução de problemas e capacidades funcionais",
+          "answer_start": 156
+        }
+      ]
+    }
+  ]
+}
+,
+{
+  "context": "Na avaliação de défices cognitivos, uma das ferramentas mais amplamente utilizadas são os exames neuropsicológicos, como o exame breve do estado mental.",
+  "qas": [
+    {
+      "question": "Que ferramenta é amplamente utilizada na avaliação de défices cognitivos?",
+      "answers": [
+        {
+          "text": "exames neuropsicológicos",
+          "answer_start": 84
+        }
+      ]
+    }
+  ]
+}
+,
+
+{
+  "context": "No diagnóstico podem também ser realizadas entrevistas com os familiares. Os cuidadores podem fornecer informações importantes sobre as capacidades quotidianas ou sobre a diminuição das capacidades mentais da pessoa.",
+  "qas": [
+    {
+      "question": "Que tipo de entrevistas podem fornecer informações importantes para o diagnóstico de Alzheimer?",
+      "answers": [
+        {
+          "text": "entrevistas com os familiares",
+          "answer_start": 48
+        }
+      ]
+    }
+  ]
+}
+,
+
+{
+  "context": "O ponto de vista do cuidador é particularmente importante, uma vez que a pessoa com Alzheimer muitas vezes não está consciente das suas próprias debilidades.",
+  "qas": [
+    {
+      "question": "Por que é importante o ponto de vista do cuidador no diagnóstico de Alzheimer?",
+      "answers": [
+        {
+          "text": "a pessoa com Alzheimer muitas vezes não está consciente das suas próprias debilidades",
+          "answer_start": 88
+        }
+      ]
+    }
+  ]
+}
+,
+    {
+  "context": "Os exames ao sangue permitem identificar outras causas de demência que não Alzheimer, causas essas que em alguns casos podem ser reversíveis.",
+  "qas": [
+    {
+      "question": "Que tipo de exames permite identificar causas de demência reversíveis?",
+      "answers": [
+        {
+          "text": "exames ao sangue",
+          "answer_start": 3
+        }
+      ]
+    }
+  ]
+}
+,
+     {
+  "context": "É também vulgar a realização de exames à função da tiroide, à vitamina B12, à deteção de sífilis ou anemia, exames metabólicos e exames para determinar a quantidade de metais pesados no organismo.",
+  "qas": [
+    {
+      "question": "Que exames são realizados para excluir outras causas de demência além de Alzheimer?",
+      "answers": [
+        {
+          "text": "exames à função da tiroide, à vitamina B12, à deteção de sífilis ou anemia, exames metabólicos e exames para determinar metais pesados",
+          "answer_start": 42
+        }
+      ]
+    }
+  ]
+}
+,
+    {
+  "context": "Podem também ser realizados testes psicológicos para determinar a possibilidade de depressão, uma vez que esta doença pode ser concorrente com Alzheimer, um sinal precoce de défice cognitivo ou até a própria causa.",
+  "qas": [
+    {
+      "question": "Por que se realizam testes psicológicos em pacientes com suspeita de Alzheimer?",
+      "answers": [
+        {
+          "text": "para determinar a possibilidade de depressão",
+          "answer_start": 41
+        }
+      ]
+    }
+  ]
+}
+,
+
+{
+  "context": "A investigação em Alzheimer tem se debruçado no diagnóstico da condição antes de os próprios sintomas se manifestarem, tendo sido desenvolvida uma série de exames bioquímicos que permitem a deteção precoce da doença.",
+  "qas": [
+    {
+      "question": "Que tipo de exames têm sido desenvolvidos para o diagnóstico precoce de Alzheimer?",
+      "answers": [
+        {
+          "text": "exames bioquímicos",
+          "answer_start": 159
+        }
+      ]
+    }
+  ]
+}
+,
+        {
+  "context": "Um destes exames envolve a análise do líquido cefalorraquidiano para a presença de beta amiloides ou proteínas tau.",
+  "qas": [
+    {
+      "question": "Que exame envolve a análise do líquido cefalorraquidiano no diagnóstico de Alzheimer?",
+      "answers": [
+        {
+          "text": "análise do líquido cefalorraquidiano para a presença de beta amiloides ou proteínas tau",
+          "answer_start": 34
+        }
+      ]
+    }
+  ]
+}
+,
+
+{
+  "context": "Este exame proteico, realizado através de punção lombar, pode prever o aparecimento de Alzheimer com sensibilidade entre 94 e 100%.",
+  "qas": [
+    {
+      "question": "Qual é a sensibilidade do exame proteico realizado através de punção lombar no diagnóstico de Alzheimer?",
+      "answers": [
+        {
+          "text": "entre 94 e 100%",
+          "answer_start": 119
+        }
+      ]
+    }
+  ]
+}
+,
+        {
+  "context": "Quando usado em conjunto com os exames imagiológicos, o exame proteico permite aos médicos identificar em pessoas com perda significativa de memória aqueles que se encontram a desenvolver a doença.",
+  "qas": [
+    {
+      "question": "O que permite o uso conjunto de exames imagiológicos e exame proteico no diagnóstico de Alzheimer?",
+      "answers": [
+        {
+          "text": "identificar pessoas com perda significativa de memória que estão a desenvolver Alzheimer",
+          "answer_start": 107
+        }
+      ]
+    }
+  ]
+}
+,
+        {
+  "context": "Atualmente não existem evidências conclusivas que permitam apoiar qualquer medida em concreto para a prevenção de Alzheimer.",
+  "qas": [
+    {
+      "question": "Existem atualmente medidas comprovadas para prevenir Alzheimer?",
+      "answers": [
+        {
+          "text": "não existem evidências conclusivas",
+          "answer_start": 13
+        }
+      ]
+    }
+  ]
+}
+,
+   {
+  "context": "As estatinas (fármacos para a diminuição do colesterol) não são eficazes na prevenção ou atraso da evolução da doença de Alzheimer.",
+  "qas": [
+    {
+      "question": "As estatinas são eficazes na prevenção de Alzheimer?",
+      "answers": [
+        {
+          "text": "não são eficazes",
+          "answer_start": 68
+        }
+      ]
+    }
+  ]
+}
+,
+        {
+  "context": "O uso prolongado de anti-inflamatórios não esteroides (AINEs) está associado à diminuição da probabilidade de se vir a desenvolver Alzheimer.",
+  "qas": [
+    {
+      "question": "Que medicamentos estão associados a uma menor probabilidade de desenvolver Alzheimer?",
+      "answers": [
+        {
+          "text": "anti-inflamatórios não esteroides (AINEs)",
+          "answer_start": 18
+        }
+      ]
+    }
+  ]
+}
+,
+        {
+  "context": "A terapia de substituição hormonal pode aumentar o risco de demência.",
+  "qas": [
+    {
+      "question": "Que efeito tem a terapia de substituição hormonal no risco de demência?",
+      "answers": [
+        {
+          "text": "pode aumentar o risco de demência",
+          "answer_start": 37
+        }
+      ]
+    }
+  ]
+}
+,
+      {
+  "context": "As atividades intelectuais, como ler, jogar jogos de tabuleiro, tocar instrumentos musicais e socializar regularmente estão associadas a uma diminuição do risco de Alzheimer.",
+  "qas": [
+    {
+      "question": "Que tipo de atividades estão associadas a uma diminuição do risco de Alzheimer?",
+      "answers": [
+        {
+          "text": "ler, jogar jogos de tabuleiro, tocar instrumentos musicais e socializar regularmente",
+          "answer_start": 33
+        }
+      ]
+    }
+  ]
+}
+,
+
+{
+  "context": "A teoria da reserva cognitiva alega que determinadas experiências de vida levam a uma maior eficiência no funcionamento dos neurónios, retardando o aparecimento de demência.",
+  "qas": [
+    {
+      "question": "O que defende a teoria da reserva cognitiva em relação à demência?",
+      "answers": [
+        {
+          "text": "experiências de vida levam a maior eficiência neuronal e retardam demência",
+          "answer_start": 57
+        }
+      ]
+    }
+  ]
+}
+,
+
+{
+  "context": "Aprender uma segunda língua, mesmo que durante a terceira idade, aparenta retardar o aparecimento da doença de Alzheimer.",
+  "qas": [
+    {
+      "question": "O que pode retardar o aparecimento do Alzheimer relacionado com linguagem?",
+      "answers": [
+        {
+          "text": "aprender uma segunda língua",
+          "answer_start": 0
+        }
+      ]
+    }
+  ]
+}
+,
+       {
+  "context": "Os consumidores de dieta mediterrânica apresentam menor risco de vir a desenvolver Alzheimer.",
+  "qas": [
+    {
+      "question": "Que tipo de dieta está associada a um menor risco de Alzheimer?",
+      "answers": [
+        {
+          "text": "dieta mediterrânica",
+          "answer_start": 20
+        }
+      ]
+    }
+  ]
+}
+,
+
+{
+  "context": "Os consumidores de dietas ricas em gorduras saturadas e hidratos de carbono simples apresentam maior risco de Alzheimer.",
+  "qas": [
+    {
+      "question": "Que tipo de dieta está associada a um maior risco de Alzheimer?",
+      "answers": [
+        {
+          "text": "dietas ricas em gorduras saturadas e hidratos de carbono simples",
+          "answer_start": 32
+        }
+      ]
+    }
+  ]
+}
+,
+
+{
+  "context": "Diversos alimentos ricos em flavonoides, como o cacau, vinho tinto ou o chá, podem diminuir o risco de Alzheimer.",
+  "qas": [
+    {
+      "question": "Que compostos presentes no cacau, vinho tinto e chá podem diminuir o risco de Alzheimer?",
+      "answers": [
+        {
+          "text": "flavonoides",
+          "answer_start": 29
+        }
+      ]
+    }
+  ]
+}
+,
+
+{
+  "context": "Os estudos de revisão sobre o uso de vitaminas e sais minerais não encontraram evidências suficientemente consistentes que permitam a sua recomendação.",
+  "qas": [
+    {
+      "question": "As vitaminas e sais minerais são recomendados para prevenir Alzheimer?",
+      "answers": [
+        {
+          "text": "não encontraram evidências suficientemente consistentes",
+          "answer_start": 80
+        }
+      ]
+    }
+  ]
+}
+,
+       {
+  "context": "Em pessoas já com Alzheimer, acrescentar à dieta ácido docosa-hexaenoico, um ácido gordo ómega 3, não mostrou retardar o declínio da doença.",
+  "qas": [
+    {
+      "question": "Que suplemento não mostrou retardar o declínio de Alzheimer?",
+      "answers": [
+        {
+          "text": "ácido docosa-hexaenoico (ómega 3)",
+          "answer_start": 50
+        }
+      ]
+    }
+  ]
+}
+,
+      {
+  "context": "A curcumina não demonstra ter qualquer benefício em seres humanos, e há evidências inconsistentes sobre o efeito do ginkgo no défice cognitivo ou demência.",
+  "qas": [
+    {
+      "question": "A curcumina e o ginkgo são eficazes no tratamento do Alzheimer?",
+      "answers": [
+        {
+          "text": "não demonstram benefício ou têm evidências inconsistentes",
+          "answer_start": 56
+        }
+      ]
+    }
+  ]
+}
+,
+     {
+  "context": "Não existe cura para a doença de Alzheimer. Existem diversos tratamentos que proporcionam alívio relativo dos sintomas, embora sejam de natureza paliativa.",
+  "qas": [
+    {
+      "question": "Existe cura para a doença de Alzheimer?",
+      "answers": [
+        {
+          "text": "Não existe cura",
+          "answer_start": 0
+        }
+      ]
+    }
+  ]
+}
+,
+{
+  "context": "Atualmente são usados cinco medicamentos no tratamento dos problemas cognitivos de Alzheimer: quatro são inibidores da acetilcolinesterase (tacrina, rivastigmina, galantamina e donepezila), sendo o outro um antagonista dos recetores de NMDA (memantina).",
+  "qas": [
+    {
+      "question": "Quantos medicamentos são usados atualmente no tratamento cognitivo de Alzheimer?",
+      "answers": [
+        {
+          "text": "cinco",
+          "answer_start": 13
+        }
+      ]
+    }
+  ]
+}
+,
+        {
+  "context": "Só a donepezila está aprovada para o tratamento da demência avançada de Alzheimer.",
+  "qas": [
+    {
+      "question": "Que medicamento está aprovado para tratar a demência avançada de Alzheimer?",
+      "answers": [
+        {
+          "text": "donepezila",
+          "answer_start": 6
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "A memantina é um antagonista dos recetores de NMDA não competitivo que atua bloqueando os recetores NMDA e inibindo a sobre-estimulação pelo glutamato.",
+  "qas": [
+    {
+      "question": "Qual o mecanismo de ação da memantina?",
+      "answers": [
+        {
+          "text": "bloqueia os recetores NMDA e inibe a sobre-estimulação pelo glutamato",
+          "answer_start": 79
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "A memantina é moderadamente eficaz no tratamento de Alzheimer moderada a grave.",
+  "qas": [
+    {
+      "question": "Em que fases da doença é a memantina moderadamente eficaz?",
+      "answers": [
+        {
+          "text": "Alzheimer moderada a grave",
+          "answer_start": 48
+        }
+      ]
+    }
+  ]
+}
+,
+        {
+  "context": "Os fármacos antipsicóticos têm alguma utilidade na diminuição da agressividade e psicose em pacientes de Alzheimer com problemas comportamentais, mas estão associados a reações adversas graves.",
+  "qas": [
+    {
+      "question": "Para que são usados os antipsicóticos em pacientes de Alzheimer?",
+      "answers": [
+        {
+          "text": "diminuição da agressividade e psicose",
+          "answer_start": 57
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "As intervenções psicossociais são usadas de forma complementar à terapêutica farmacológica e podem ser divididas em abordagens ao comportamento, emoções, cognição ou estimulação.",
+  "qas": [
+    {
+      "question": "Que tipos de intervenções psicossociais são usadas em Alzheimer?",
+      "answers": [
+        {
+          "text": "abordagens ao comportamento, emoções, cognição ou estimulação",
+          "answer_start": 141
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "A terapia de reminiscência envolve a discussão de experiências passadas, muitas vezes com a ajuda de fotografias, objetos domésticos, música e gravações.",
+  "qas": [
+    {
+      "question": "Em que consiste a terapia de reminiscência?",
+      "answers": [
+        {
+          "text": "discussão de experiências passadas com ajuda de fotografias, objetos, música e gravações",
+          "answer_start": 44
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "A terapia de presença simulada baseia-se na reprodução de uma gravação com as vozes dos familiares mais próximos da pessoa com Alzheimer.",
+  "qas": [
+    {
+      "question": "Em que consiste a terapia de presença simulada?",
+      "answers": [
+        {
+          "text": "reprodução de uma gravação com as vozes dos familiares",
+          "answer_start": 51
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "A terapia de validação alega que a ansiedade da pessoa pode ser reduzida caso se tente entrar na sua realidade em vez de a tentar trazer à nossa realidade.",
+  "qas": [
+    {
+      "question": "O que propõe a terapia de validação para reduzir a ansiedade?",
+      "answers": [
+        {
+          "text": "entrar na realidade da pessoa",
+          "answer_start": 87
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "A terapia de orientação da realidade consiste em apresentar informações sobre o tempo, local ou pessoa para facilitar a compreensão do doente em relação ao que está à sua volta.",
+  "qas": [
+    {
+      "question": "O que faz a terapia de orientação da realidade?",
+      "answers": [
+        {
+          "text": "apresenta informações sobre o tempo, local ou pessoa",
+          "answer_start": 53
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "Os tratamentos de estimulação cognitiva incluem arte terapia, musicoterapia, terapia assistida com animais, fisioterapia ou atividades recreativas.",
+  "qas": [
+    {
+      "question": "Que tipos de atividades incluem os tratamentos de estimulação cognitiva?",
+      "answers": [
+        {
+          "text": "arte terapia, musicoterapia, terapia assistida com animais, fisioterapia ou atividades recreativas",
+          "answer_start": 53
+        }
+      ]
+    }
+  ]
+}
+,
+        {
+  "context": "Uma vez que a doença de Alzheimer não tem cura e o paciente vai gradualmente perdendo a capacidade de cuidar de si próprio, o tratamento passa principalmente pela prestação de cuidados.",
+  "qas": [
+    {
+      "question": "Qual é o foco principal do tratamento da doença de Alzheimer?",
+      "answers": [
+        {
+          "text": "prestação de cuidados",
+          "answer_start": 163
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "Durante os estádios leve e moderado, determinadas alterações ao meio envolvente e ao estilo de vida podem aumentar a segurança do paciente e reduzir os encargos para os cuidadores.",
+  "qas": [
+    {
+      "question": "Que alterações podem aumentar a segurança do paciente nos estádios iniciais de Alzheimer?",
+      "answers": [
+        {
+          "text": "alterações ao meio envolvente e ao estilo de vida",
+          "answer_start": 59
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "Não há evidências de que a alimentação através de tubo ajude as pessoas em fase avançada de demência a ganhar peso, recuperar forças ou que melhore a qualidade de vida.",
+  "qas": [
+    {
+      "question": "A alimentação por tubo é eficaz para melhorar a qualidade de vida em Alzheimer avançado?",
+      "answers": [
+        {
+          "text": "não há evidências",
+          "answer_start": 0
+        }
+      ]
+    }
+  ]
+}
+,
+        {
+  "context": "O uso de restrições físicas raramente é indicado, qualquer que seja a fase da doença, embora haja situações em que é necessário para impedir que o paciente se magoe.",
+  "qas": [
+    {
+      "question": "Quando é indicado o uso de restrições físicas em pacientes com Alzheimer?",
+      "answers": [
+        {
+          "text": "para impedir que o paciente se magoe",
+          "answer_start": 135
+        }
+      ]
+    }
+  ]
+}
+,
+        {
+  "context": "À medida que a doença avança podem surgir diversos problemas médicos, como doenças dentais, escaras, desnutrição, infeções oculares, problemas de higiene, respiratórios e de pele.",
+  "qas": [
+    {
+      "question": "Que problemas médicos podem surgir à medida que a doença de Alzheimer avança?",
+      "answers": [
+        {
+          "text": "doenças dentais, escaras, desnutrição, infeções oculares, problemas de higiene, respiratórios e de pele",
+          "answer_start": 76
+        }
+      ]
+    }
+  ]
+}
+,
+        {
+  "context": "Durante a fase final da doença, o tratamento centra-se no alívio do desconforto até à morte.",
+  "qas": [
+    {
+      "question": "Em que se centra o tratamento na fase final da doença de Alzheimer?",
+      "answers": [
+        {
+          "text": "alívio do desconforto até à morte",
+          "answer_start": 59
+        }
+      ]
+    }
+  ]
+}
+,
+        {
+  "context": "É difícil diagnosticar a doença de Alzheimer durante os primeiros estádios. O diagnóstico definitivo geralmente só consegue ser determinado quando o défice cognitivo compromete a realização de atividades diárias.",
+  "qas": [
+    {
+      "question": "Quando é geralmente determinado o diagnóstico definitivo da doença de Alzheimer?",
+      "answers": [
+        {
+          "text": "quando o défice cognitivo compromete a realização de atividades diárias",
+          "answer_start": 125
+        }
+      ]
+    }
+  ]
+}
+,
+        {
+  "context": "A esperança média de vida após o diagnóstico é de aproximadamente sete anos.",
+  "qas": [
+    {
+      "question": "Qual é a esperança média de vida após o diagnóstico de Alzheimer?",
+      "answers": [
+        {
+          "text": "aproximadamente sete anos",
+          "answer_start": 52
+        }
+      ]
+    }
+  ]
+}
+,
+       {
+  "context": "Menos de 3% das pessoas com Alzheimer vive para além dos quatorze anos após o diagnóstico.",
+  "qas": [
+    {
+      "question": "Quantas pessoas com Alzheimer vivem para além de 14 anos após o diagnóstico?",
+      "answers": [
+        {
+          "text": "menos de 3%",
+          "answer_start": 0
+        }
+      ]
+    }
+  ]
+}
+,
+        {
+  "context": "A doença é a causa de morte subjacente em 70% dos casos. A pneumonia e a desidratação são as mais frequentes causas de morte imediata.",
+  "qas": [
+    {
+      "question": "Quais são as causas mais frequentes de morte imediata em Alzheimer?",
+      "answers": [
+        {
+          "text": "pneumonia e desidratação",
+          "answer_start": 86
+        }
+      ]
+    }
+  ]
+}
+,
+       {
+  "context": "As características da doença associadas a esta reduzida sobrevivência são o agravamento do défice cognitivo, a diminuição das capacidades executoras, a ocorrência de quedas e transtornos neurológicos.",
+  "qas": [
+    {
+      "question": "Que características da doença estão associadas a uma menor sobrevivência em Alzheimer?",
+      "answers": [
+        {
+          "text": "agravamento do défice cognitivo, diminuição das capacidades executoras, ocorrência de quedas e transtornos neurológicos",
+          "answer_start": 80
+        }
+      ]
+    }
+  ]
+}
+,
+       {
+  "context": "As duas principais medidas usadas em estudos epidemiológicos sobre Alzheimer são a incidência e a prevalência.",
+  "qas": [
+    {
+      "question": "Quais são as duas principais medidas usadas em estudos epidemiológicos sobre Alzheimer?",
+      "answers": [
+        {
+          "text": "incidência e prevalência",
+          "answer_start": 82
+        }
+      ]
+    }
+  ]
+}
+,
+        {
+  "context": "A incidência é o número de novos casos por cada unidade de pessoa-tempo em risco; geralmente, o número de novos casos por cada milhar de pessoas-ano.",
+  "qas": [
+    {
+      "question": "O que é a incidência em estudos epidemiológicos?",
+      "answers": [
+        {
+          "text": "número de novos casos por cada unidade de pessoa-tempo em risco",
+          "answer_start": 16
+        }
+      ]
+    }
+  ]
+}
+,
+        {
+  "context": "A prevalência é o número total de casos da doença em determinada população a dado momento.",
+  "qas": [
+    {
+      "question": "O que é a prevalência em estudos epidemiológicos?",
+      "answers": [
+        {
+          "text": "número total de casos da doença em determinada população a dado momento",
+          "answer_start": 16
+        }
+      ]
+    }
+  ]
+}
+,
+        {
+  "context": "Os estudos longitudinais mostram taxas de incidência entre 10 a 15 por cada mil pessoas-ano para todas as demências e entre 5-8 para Alzheimer.",
+  "qas": [
+    {
+      "question": "Qual é a taxa de incidência de Alzheimer segundo os estudos longitudinais?",
+      "answers": [
+        {
+          "text": "entre 5-8 por cada mil pessoas-ano",
+          "answer_start": 120
+        }
+      ]
+    }
+  ]
+}
+,
+        {
+  "context": "Por cada cinco anos após os 65 anos, o risco de adquirir Alzheimer duplica, em média.",
+  "qas": [
+    {
+      "question": "O que acontece ao risco de adquirir Alzheimer a cada cinco anos após os 65 anos?",
+      "answers": [
+        {
+          "text": "duplica",
+          "answer_start": 63
+        }
+      ]
+    }
+  ]
+}
+,
+    {
+  "context": "As mulheres apresentam maior risco de desenvolver Alzheimer, principalmente acima dos 85 anos.",
+  "qas": [
+    {
+      "question": "Quem apresenta maior risco de desenvolver Alzheimer acima dos 85 anos?",
+      "answers": [
+        {
+          "text": "mulheres",
+          "answer_start": 3
+        }
+      ]
+    }
+  ]
+}
+,
+
+{
+  "context": "Existe uma relação inversamente proporcional entre a prevalência de demência e a escolaridade. Nos indivíduos com oito anos ou mais de escolaridade a prevalência é de 3,5%, enquanto que nos analfabetos é de 12,2%.",
+  "qas": [
+    {
+      "question": "Como a escolaridade afeta a prevalência de demência?",
+      "answers": [
+        {
+          "text": "relação inversamente proporcional",
+          "answer_start": 51
+        }
+      ]
+    }
+  ]
+}
+,
+       {
+  "context": "Em Portugal, durante o ano de 2009, estima-se que existam cerca de 153 000 pessoas com demência, das quais 90 000 com Alzheimer.",
+  "qas": [
+    {
+      "question": "Quantas pessoas com Alzheimer existiam em Portugal em 2009?",
+      "answers": [
+        {
+          "text": "90 000",
+          "answer_start": 104
+        }
+      ]
+    }
+  ]
+}
+,
+        {
+  "context": "No Brasil, em 2009, o número total de casos era de cerca de um milhão.",
+  "qas": [
+    {
+      "question": "Quantos casos de Alzheimer havia no Brasil em 2009?",
+      "answers": [
+        {
+          "text": "cerca de um milhão",
+          "answer_start": 47
+        }
+      ]
+    }
+  ]
+}
+,
+      {
+  "context": "Nos Estados Unidos, em 2000, a prevalência estimada era de 1,6% entre os 65-74 anos, 19% entre os 75-84 anos e 42% acima dos 84 anos.",
+  "qas": [
+    {
+      "question": "Qual era a prevalência de Alzheimer nos EUA em pessoas acima dos 84 anos?",
+      "answers": [
+        {
+          "text": "42%",
+          "answer_start": 125
+        }
+      ]
+    }
+  ]
+}
+,
+        {
+  "context": "Estima-se que em 2050 a taxa de prevalência de Alzheimer será três vezes superior e o número absoluto de casos quatro vezes superior.",
+  "qas": [
+    {
+      "question": "Qual é a estimativa para a taxa de prevalência de Alzheimer em 2050?",
+      "answers": [
+        {
+          "text": "três vezes superior",
+          "answer_start": 61
+        }
+      ]
+    }
+  ]
+}
+,
+
+
+{
+  "context": "Em 1901 o psiquiatra alemão Alois Alzheimer identificou pela primeira vez um caso da patologia que viria a ser denominada doença de Alzheimer, numa mulher de cinquenta anos chamada Auguste Deter.",
+  "qas": [
+    {
+      "question": "Quem identificou pela primeira vez a doença de Alzheimer?",
+      "answers": [
+        {
+          "text": "Alois Alzheimer",
+          "answer_start": 25
+        }
+      ]
+    }
+  ]
+}
+,
+        {
+  "context": "O médico seguiu a paciente Auguste Deter até à sua morte, em 1906, data em que publicou o primeiro relatório sobre o caso.",
+  "qas": [
+    {
+      "question": "Quando foi publicado o primeiro relatório sobre a doença de Alzheimer?",
+      "answers": [
+        {
+          "text": "1906",
+          "answer_start": 68
+        }
+      ]
+    }
+  ]
+}
+,
+      {
+  "context": "Da equipa de Alois Alzheimer fazia também parte Friedrich Lewy, o qual descobriu os corpos de Lewy.",
+  "qas": [
+    {
+      "question": "Que cientista da equipa de Alzheimer descobriu os corpos de Lewy?",
+      "answers": [
+        {
+          "text": "Friedrich Lewy",
+          "answer_start": 49
+        }
+      ]
+    }
+  ]
+}
+,
+       {
+  "context": "A doença foi pela primeira vez descrita como condição autónoma por Emil Kraepelin, depois de ter suprimido algumas das características clínicas e patológicas do relatório original de Auguste D.",
+  "qas": [
+    {
+      "question": "Quem descreveu a doença de Alzheimer como uma condição autónoma?",
+      "answers": [
+        {
+          "text": "Emil Kraepelin",
+          "answer_start": 68
+        }
+      ]
+    }
+  ]
+}
+,
+        {
+  "context": "Kraepelin incluiu a doença de Alzheimer, também denominada 'demência pré-senil', na oitava edição do seu Manual de Psiquiatria, publicado em 15 de julho de 1910.",
+  "qas": [
+    {
+      "question": "Quando foi a doença de Alzheimer incluída no Manual de Psiquiatria?",
+      "answers": [
+        {
+          "text": "15 de julho de 1910",
+          "answer_start": 134
+        }
+      ]
+    }
+  ]
+}
+,
+        {
+  "context": "Durante o século XX, o diagnóstico de Alzheimer era reservado a indivíduos entre 45 e 65 anos, mas em 1977 concluiu-se que a demência senil e pré-senil eram praticamente idênticas.",
+  "qas": [
+    {
+      "question": "O que se concluiu em 1977 sobre a demência senil e pré-senil?",
+      "answers": [
+        {
+          "text": "eram praticamente idênticas",
+          "answer_start": 152
+        }
+      ]
+    }
+  ]
+}
+,
+{
+  "context": "Finalmente, o termo 'doença de Alzheimer' foi adotado para descrever indivíduos de todas as idades com sintomas, evolução e neuropatologia em comum.",
+  "qas": [
+    {
+      "question": "Que termo passou a ser usado para descrever a doença independentemente da idade?",
+      "answers": [
+        {
+          "text": "doença de Alzheimer",
+          "answer_start": 18
+        }
+      ]
+    }
+  ]
+}
+,
+
+{
+  "context": "Finalmente, o termo 'doença de Alzheimer' foi adotado para descrever indivíduos de todas as idades com sintomas, evolução e neuropatologia em comum.",
+  "qas": [
+    {
+      "question": "Que termo passou a ser usado para descrever a doença independentemente da idade?",
+      "answers": [
+        {
+          "text": "doença de Alzheimer",
+          "answer_start": 18
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "A demência, e especificamente a doença de Alzheimer, está entre as doenças com maiores custos sociais na Europa e nos Estados Unidos, sendo também cada vez maior noutros países como a Argentina ou a Coreia do Sul.",
+  "qas": [
+    {
+      "question": "Em que regiões a doença de Alzheimer representa elevados custos sociais?",
+      "answers": [
+        {
+          "text": "Europa e Estados Unidos",
+          "answer_start": 98
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "Os custos têm tendência a aumentar com o envelhecimento da população, tornando-se cada vez mais um problema social.",
+  "qas": [
+    {
+      "question": "O que causa o aumento dos custos sociais da doença de Alzheimer?",
+      "answers": [
+        {
+          "text": "envelhecimento da população",
+          "answer_start": 38
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "Os custos associados à doença de Alzheimer incluem despesas médicas diretas, como as despesas com enfermagem ou apoio domiciliário, despesas médicas indiretas, como a estadia em centros de dia, e custos indiretos, como a perda de produtividade do paciente e do prestador de cuidados.",
+  "qas": [
+    {
+      "question": "Que tipos de custos estão associados à doença de Alzheimer?",
+      "answers": [
+        {
+          "text": "despesas médicas diretas, despesas médicas indiretas e custos indiretos",
+          "answer_start": 55
+        }
+      ]
+    }
+  ]
+}
+,
+        {
+  "context": "O custo da demência à escala global foi estimado em cerca de 160 mil milhões de dólares.",
+  "qas": [
+    {
+      "question": "Qual é a estimativa do custo global da demência?",
+      "answers": [
+        {
+          "text": "cerca de 160 mil milhões de dólares",
+          "answer_start": 58
+        }
+      ]
+    }
+  ]
+}
+,
+        {
+  "context": "A principal fonte dos custos sociais é a prestação de cuidados de saúde a longo prazo por profissionais de saúde e o internamento em instituições, que corresponde a dois terços dos custos.",
+  "qas": [
+    {
+      "question": "Qual é a principal fonte dos custos sociais relacionados com Alzheimer?",
+      "answers": [
+        {
+          "text": "prestação de cuidados de saúde a longo prazo e internamento em instituições",
+          "answer_start": 53
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "O custo de vida na residência é igualmente muito elevado, sobretudo quando se contabilizam os custos para a família, como o tempo investido na prestação de cuidados e a perda de rendimento.",
+  "qas": [
+    {
+      "question": "Que fatores familiares aumentam os custos da doença de Alzheimer?",
+      "answers": [
+        {
+          "text": "tempo investido na prestação de cuidados e perda de rendimento",
+          "answer_start": 128
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "Os custos aumentam à medida que aumenta a gravidade da doença e a presença de distúrbios comportamentais.",
+  "qas": [
+    {
+      "question": "Que fatores aumentam os custos sociais da doença de Alzheimer?",
+      "answers": [
+        {
+          "text": "gravidade da doença e presença de distúrbios comportamentais",
+          "answer_start": 40
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "Qualquer tratamento que atrase o declínio cognitivo, o internamento ou reduza o tempo de cuidados traz benefícios a nível económico.",
+  "qas": [
+    {
+      "question": "Que tipo de tratamento traz benefícios económicos em Alzheimer?",
+      "answers": [
+        {
+          "text": "tratamento que atrase o declínio cognitivo, o internamento ou reduza o tempo de cuidados",
+          "answer_start": 8
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "Em muitos casos, é o cônjuge ou um familiar próximo quem assume o papel de principal cuidador.",
+  "qas": [
+    {
+      "question": "Quem assume frequentemente o papel de principal cuidador em Alzheimer?",
+      "answers": [
+        {
+          "text": "cônjuge ou um familiar próximo",
+          "answer_start": 31
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "Os cuidadores são responsáveis pela manutenção da segurança física, redução da ansiedade e agitação, melhoria da comunicação, promoção da independência nas atividades de autocuidado, entre outras funções.",
+  "qas": [
+    {
+      "question": "Quais são algumas das responsabilidades dos cuidadores de pacientes com Alzheimer?",
+      "answers": [
+        {
+          "text": "manutenção da segurança física, redução da ansiedade e agitação, melhoria da comunicação, promoção da independência",
+          "answer_start": 42
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "A doença tem um impacto significativo para os cuidadores, a nível social, psicológico, físico e económico.",
+  "qas": [
+    {
+      "question": "Quais os impactos principais da doença de Alzheimer nos cuidadores?",
+      "answers": [
+        {
+          "text": "impacto social, psicológico, físico e económico",
+          "answer_start": 47
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "Os pacientes e a família geralmente preferem o apoio domiciliário, o qual também atrasa ou elimina a necessidade de tratamentos profissionais e de maior custo económico.",
+  "qas": [
+    {
+      "question": "Qual a vantagem do apoio domiciliário para pacientes de Alzheimer?",
+      "answers": [
+        {
+          "text": "atrasa ou elimina a necessidade de tratamentos profissionais e de maior custo económico",
+          "answer_start": 94
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "Os cuidadores de pacientes com demência estão susceptíveis a uma elevada prevalência de transtornos mentais e físicos.",
+  "qas": [
+    {
+      "question": "Que tipo de transtornos são comuns em cuidadores de pacientes com demência?",
+      "answers": [
+        {
+          "text": "transtornos mentais e físicos",
+          "answer_start": 78
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "Entre os fatores de risco que contribuem para esta prevalência estão a presença da pessoa cuidada em casa, o fato de o paciente ser o cônjuge e determinados comportamentos do paciente que exigem elevada atenção.",
+  "qas": [
+    {
+      "question": "Quais fatores aumentam o risco de transtornos em cuidadores de Alzheimer?",
+      "answers": [
+        {
+          "text": "presença da pessoa cuidada em casa, paciente ser o cônjuge, comportamentos como depressão e distúrbios de comportamento",
+          "answer_start": 87
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "Nos Estados Unidos, os custos diretos e indiretos do acompanhamento em casa de um paciente com Alzheimer variam entre 18 000 e 77 500 dólares por ano.",
+  "qas": [
+    {
+      "question": "Qual é o custo anual médio de acompanhamento domiciliário de Alzheimer nos Estados Unidos?",
+      "answers": [
+        {
+          "text": "entre 18 000 e 77 500 dólares por ano",
+          "answer_start": 106
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "A terapia cognitivo-comportamental e o ensino de estratégias de coping, quer individualmente quer em grupo, têm demonstrado alguma eficácia na melhoria da saúde mental dos cuidadores.",
+  "qas": [
+    {
+      "question": "Que terapias melhoram a saúde mental dos cuidadores de Alzheimer?",
+      "answers": [
+        {
+          "text": "terapia cognitivo-comportamental e ensino de estratégias de coping",
+          "answer_start": 2
+        }
+      ]
+    }
+  ]
+}
+,
+        {
+  "context": "À data de 2014, foram ou estavam a ser investigados mais de 400 possíveis tratamentos farmacológicos em mais de 1500 ensaios clínicos à escala mundial.",
+  "qas": [
+    {
+      "question": "Quantos tratamentos estavam a ser investigados para Alzheimer em 2014?",
+      "answers": [
+        {
+          "text": "mais de 400",
+          "answer_start": 58
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "Um dos objetivos mais comuns dos compostos atualmente em investigação, como no caso da apomorfina, é a diminuição da quantidade de beta amiloides.",
+  "qas": [
+    {
+      "question": "Qual é o objetivo da apomorfina no tratamento de Alzheimer?",
+      "answers": [
+        {
+          "text": "diminuição da quantidade de beta amiloides",
+          "answer_start": 116
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "A imunoterapia ou vacinação contra a proteína amiloide é uma abordagem investigada para tratar pessoas diagnosticadas com Alzheimer, treinando o sistema imunitário para reconhecer e reverter a deposição de amiloide.",
+  "qas": [
+    {
+      "question": "Como funcionaria a imunoterapia contra Alzheimer?",
+      "answers": [
+        {
+          "text": "treinando o sistema imunitário para reconhecer e reverter a deposição de amiloide",
+          "answer_start": 158
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "Uma destas vacinas é o bapineuzumab, um anticorpo desenhado para ser idêntico ao anticorpo anti-amiloide natural.",
+  "qas": [
+    {
+      "question": "Qual o nome de uma vacina experimental contra Alzheimer?",
+      "answers": [
+        {
+          "text": "bapineuzumab",
+          "answer_start": 24
+        }
+      ]
+    }
+  ]
+}
+,
+        {
+  "context": "Entre outras abordagens estão os agentes neuroprotetores, como o AL-108, e os agentes de atenuação das interações proteína-metal, como o PBT2.",
+  "qas": [
+    {
+      "question": "Que outras abordagens estão a ser investigadas além da vacinação?",
+      "answers": [
+        {
+          "text": "agentes neuroprotetores como o AL-108 e agentes proteína-metal como o PBT2",
+          "answer_start": 45
+        }
+      ]
+    }
+  ]
+}
+,
+        {
+  "context": "Verificou-se que o vírus da herpes (HSV-1) se implantava no mesmo local das placas de amiloide, sugerindo a possibilidade de tratamento com antivirais.",
+  "qas": [
+    {
+      "question": "Que vírus está associado às placas de amiloide e pode ser alvo de tratamento antiviral?",
+      "answers": [
+        {
+          "text": "vírus da herpes (HSV-1)",
+          "answer_start": 18
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "O cloreto de metiltionínio (Rember) demonstrou resultados positivos em Alzheimer leve a moderado por inibir a agregação da proteína tau.",
+  "qas": [
+    {
+      "question": "Que efeito tem o fármaco Rember em Alzheimer leve a moderado?",
+      "answers": [
+        {
+          "text": "inibe a agregação da proteína tau",
+          "answer_start": 97
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "Em 2016, Li-Huei Tsai descobriu que luzes piscantes a 40 hertz aumentaram as oscilações gama e diminuíram os níveis beta amiloide no córtex visual de camundongos.",
+  "qas": [
+    {
+      "question": "Que efeito teve a luz a 40Hz em camundongos com Alzheimer?",
+      "answers": [
+        {
+          "text": "diminuíram os níveis beta amiloide no córtex visual",
+          "answer_start": 122
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "A droga Solanezumab, testada em 2015, demonstrou reduzir a taxa de progressão da doença de Alzheimer.",
+  "qas": [
+    {
+      "question": "Qual droga testada em 2015 demonstrou reduzir a progressão da doença?",
+      "answers": [
+        {
+          "text": "Solanezumab",
+          "answer_start": 8
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "Em junho de 2021, a FDA americana aprovou o uso do Aducanumab como tratamento da doença de Alzheimer, observando-se redução significativa da placa amiloide.",
+  "qas": [
+    {
+      "question": "Qual medicamento foi aprovado pela FDA em 2021 para tratar Alzheimer?",
+      "answers": [
+        {
+          "text": "Aducanumab",
+          "answer_start": 53
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "Em pessoas já com demência, a tomografia computorizada por emissão de fotão único (SPECT) aparenta ser superior a distinguir a doença de Alzheimer de outras causas possíveis, em comparação com os testes mentais e análise do histórico clínico.",
+  "qas": [
+    {
+      "question": "Que exame imagiológico é mais eficaz do que testes mentais na distinção de Alzheimer?",
+      "answers": [
+        {
+          "text": "tomografia computorizada por emissão de fotão único (SPECT)",
+          "answer_start": 47
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "A ressonância magnética volumétrica permite detetar alterações no tamanho das regiões do cérebro, sendo promissora como indicador de diagnóstico.",
+  "qas": [
+    {
+      "question": "Que exame permite detetar atrofia cerebral em Alzheimer?",
+      "answers": [
+        {
+          "text": "ressonância magnética volumétrica",
+          "answer_start": 2
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "O florbetapir, um radiofármaco para tomografia por emissão de positrões, foi recentemente aprovado nos Estados Unidos para o diagnóstico de Alzheimer.",
+  "qas": [
+    {
+      "question": "Qual o nome do radiofármaco recentemente aprovado para diagnóstico de Alzheimer?",
+      "answers": [
+        {
+          "text": "florbetapir",
+          "answer_start": 2
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "Em 2019 foi desenvolvido um algoritmo que permite estimar o risco de desenvolver demência precoce, prevendo novos diagnósticos até oito anos mais cedo.",
+  "qas": [
+    {
+      "question": "Que inovação foi desenvolvida em 2019 para prever risco de demência precoce?",
+      "answers": [
+        {
+          "text": "algoritmo que permite prever novos diagnósticos até oito anos mais cedo",
+          "answer_start": 54
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "Desde 2005, o projeto 'Patients Like Me' contribui com dados para ajudar médicos a encontrar melhores resultados para a compreensão da doença de Alzheimer.",
+  "qas": [
+    {
+      "question": "Que projeto de ciência cidadã, lançado em 2005, contribui com dados sobre Alzheimer?",
+      "answers": [
+        {
+          "text": "Patients Like Me",
+          "answer_start": 26
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "Em 2008, o projeto 'CureTogether' criou um local onde pacientes com várias condições médicas podem partilhar informações e recursos.",
+  "qas": [
+    {
+      "question": "Que projeto de 2008 permite a partilha de informações entre pacientes?",
+      "answers": [
+        {
+          "text": "CureTogether",
+          "answer_start": 22
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "O projeto EyesOnALZ, anteriormente conhecido como WeCureALZ, permite que o público ajude na pesquisa de Alzheimer através da análise de vasos sanguíneos paralisados no cérebro.",
+  "qas": [
+    {
+      "question": "Que projeto de ciência cidadã envolve o público na análise de vasos sanguíneos no cérebro de Alzheimer?",
+      "answers": [
+        {
+          "text": "EyesOnALZ",
+          "answer_start": 11
+        }
+      ]
+    }
+  ]
+},
+        {
+  "context": "Um estudo recente mostrou que os astrócitos desempenham um papel ativo nos estágios iniciais da doença de Alzheimer, desencadeando os efeitos patológicos do beta-amiloide na proteína tau.",
+  "qas": [
+    {
+      "question": "Que célula foi recentemente implicada nos estágios iniciais da doença de Alzheimer?",
+      "answers": [
+        {
+          "text": "astrócitos",
+          "answer_start": 47
+        }
+      ]
+    }
+  ]
+},
+
+
+  {
+    "context": "A doença de Alzheimer constitui numa alteração neurológica que causa perda de memória e declínio cognitivo progressivos. Atualmente é o tipo de demência mais comum, sendo responsável por 60% a 80% dos casos nos Estados Unidos: em 2013, 6,8 milhões de pessoas foram diagnosticadas com demência, dos quais cinco milhões classificados como Alzheimer. Em 2050, espera-se que os números dupliquem.",
+    "qas": [
+      {
+        "question": "O que é a doença de Alzheimer?",
+        "answers": [
+          {
+            "text": "numa alteração neurológica que causa perda de memória e declínio cognitivo progressivos",
+            "answer_start": 32
+          }
+        ]
+      },
+      {
+        "question": "Qual a porcentagem de casos de demência que a doença de Alzheimer representa nos Estados Unidos?",
+        "answers": [
+          {
+            "text": "60% a 80%",
+            "answer_start": 124
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "A doença de Alzheimer, de instalação insidiosa e progressão lenta, afeta, primeira e predominantemente, a memória episódica, fazendo com que o doente comece a ter dificuldades em lembrar-se de fragmentos recentes da sua vida, como onde coloca os objetos, os recados, o que comeu no dia anterior ou em que dia do mês está.",
+    "qas": [
+      {
+        "question": "Quais funções cognitivas são afetadas no início da doença de Alzheimer?",
+        "answers": [
+          {
+            "text": "a memória episódica",
+            "answer_start":  70
+          }
+        ]
+      },
+      {
+        "question": "O que se torna difícil para o doente no início da doença?",
+        "answers": [
+          {
+            "text": "lembrar-se de fragmentos recentes da sua vida",
+            "answer_start":  90
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "À perda de memória vão-se juntando lentamente outros sintomas característicos: dificuldade em reconhecer pessoas, discurso mais pobre e entrecortado à procura de palavras, orientação em espaços fica cada vez mais difícil, alucinações visuais e atividade delirante que resultam em agitação e agressividade, levando a pessoa a deixar de viver de forma autónoma.",
+    "qas": [
+      {
+        "question": "Que dificuldades de comunicação podem ocorrer em pacientes com Alzheimer?",
+        "answers": [
+          {
+            "text": "discurso mais pobre e entrecortado à procura de palavras",
+            "answer_start":  75
+          }
+        ]
+      },
+      {
+        "question": "Quais sintomas comportamentais são mencionados?",
+        "answers": [
+          {
+            "text": "alucinações visuais e atividade delirante que resultam em agitação e agressividade",
+            "answer_start":  150
+          }
+        ]
+      },
+      {
+        "question": "Qual o impacto desses sintomas na autonomia do paciente?",
+        "answers": [
+          {
+            "text": "deixar de viver de forma autónoma",
+            "answer_start":  230
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "A doença de Alzheimer é uma doença neurodegenerativa caracterizada pela perda progressiva de células cerebrais e das conexões entre elas. O exame neurológico costuma ser normal nas fases iniciais, e os exames de imagem podem mostrar atrofia dos hipocampos; em fases avançadas, os doentes podem desenvolver sinais de Parkinson e atrofia generalizada do cérebro.",
+    "qas": [
+      {
+        "question": "Qual é a característica patológica subjacente da doença de Alzheimer?",
+        "answers": [
+          {
+            "text": "perda progressiva de células cerebrais e das conexões entre elas",
+            "answer_start":  50
+          }
+        ]
+      },
+      {
+        "question": "O que os exames de imagem podem revelar nas fases iniciais?",
+        "answers": [
+          {
+            "text": "atrofia dos hipocampos",
+            "answer_start":  120
+          }
+        ]
+      },
+      {
+        "question": "Que sinais podem aparecer em fases avançadas da doença?",
+        "answers": [
+          {
+            "text": "sinais de Parkinson e atrofia generalizada do cérebro",
+            "answer_start":  180
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Não há cura conhecida para a Doença de Alzheimer, mas intervenções terapêuticas podem melhorar a qualidade de vida dos doentes. Entre essas intervenções estão o controle de outras patologias concomitantes, a terapia ocupacional, o envolvimento em grupos de apoio, e a terapêutica medicamentosa, que inclui inibidores da colinesterase (donepezilo, rivastigmina, tacrina) e memantina. Os cuidados de apoio nas atividades diárias tornam-se essenciais à medida que a independência diminui.",
+    "qas": [
+      {
+        "question": "Existe cura para a doença de Alzheimer?",
+        "answers": [
+          {
+            "text": "Não há cura conhecida para a Doença de Alzheimer",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "question": "Quais intervenções terapêuticas são citadas para o tratamento da doença?",
+        "answers": [
+          {
+            "text": "controle de outras patologias concomitantes, a terapia ocupacional, o envolvimento em grupos de apoio, e a terapêutica medicamentosa",
+            "answer_start":  80
+          }
+        ]
+      },
+      {
+        "question": "Que medicamentos são mencionados na terapêutica medicamentosa?",
+        "answers": [
+          {
+            "text": "inibidores da colinesterase (donepezilo, rivastigmina, tacrina) e memantina",
+            "answer_start":  180
+          }
+        ]
+      },
+      {
+        "question": "O que se torna essencial conforme a independência do paciente diminui?",
+        "answers": [
+          {
+            "text": "cuidados de apoio nas atividades diárias",
+            "answer_start":  250
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Embora alguns fatores de risco, como o envelhecimento, a história familiar e a genética, não possam ser modificados, a prática regular de atividade física, o controle da pressão arterial, o tratamento da diabetes, da obesidade e do tabagismo, bem como uma dieta variada e saudável e o envolvimento social e mental, podem ajudar na prevenção da Doença de Alzheimer.",
+    "qas": [
+      {
+        "question": "Quais fatores de risco não podem ser prevenidos?",
+        "answers": [
+          {
+            "text": "envelhecimento, a história familiar e a genética",
+            "answer_start":  70
+          }
+        ]
+      },
+      {
+        "question": "Que medidas podem ajudar na prevenção da doença?",
+        "answers": [
+          {
+            "text": "prática regular de atividade física, o controle da pressão arterial, o tratamento da diabetes, da obesidade e do tabagismo, bem como uma dieta variada e saudável e o envolvimento social e mental",
+            "answer_start":  150
+          }
+        ]
+      }
+    ]
+  }
+  ]
+
+
+
+
