@@ -7570,8 +7570,6 @@
   }
 ]
 },
-{
-  "contexts": [
     {
       "context": "Alzheimer's disease is characterized by the formation of amyloid plaques and neurofibrillary tangles in the brain, which disrupt communication between neurons and lead to cell death.",
       "qas": [
@@ -8319,9 +8317,7 @@
           ]
         }
       ]
-    }
-  ]
-},
+    },
 {
 "context": "Consumers of diets rich in saturated fats and simple carbohydrates have a higher risk of Alzheimer's",
 "qas": [
@@ -9146,8 +9142,6 @@
   }
 ]
 },
-{
-  "contexts": [
     {
       "context": "Alzheimer's disease is characterized by the presence of amyloid plaques and neurofibrillary tangles in the brain, which disrupt communication between neurons and lead to cell death.",
       "qas": [
@@ -9881,8 +9875,6 @@
           ]
         }
       ]
-    }
-  ]
 },
       {
 "context": "Caregivers are responsible for maintaining physical safety, reducing anxiety and agitation, improving communication, promoting independence in self-care activities, among other functions.",
