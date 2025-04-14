@@ -69,7 +69,7 @@
       ]
     },
     {
-        " context ": "Alzheimer's disease is a chronic neurodegenerative disease and the most common form of dementia. The disease manifests itself slowly and worsens over time. The most common initial symptom is short-term memory loss, with difficulties recalling recent events.",
+        "context": "Alzheimer's disease is a chronic neurodegenerative disease and the most common form of dementia. The disease manifests itself slowly and worsens over time. The most common initial symptom is short-term memory loss, with difficulties recalling recent events.",
         "qas": [
           {
             "question": "What is the most common form of dementia?",
@@ -9967,7 +9967,7 @@
     "question": "Which therapies improve the mental health of Alzheimer's caregivers?",
     "answers": [
       {
-        " text": "cognitive-behavioral therapy and teaching coping strategies",
+        "text": "cognitive-behavioral therapy and teaching coping strategies",
         "answer_start": 2
       }
     ]
@@ -10010,7 +10010,7 @@
     "question": "How would immunotherapy work against Alzheimer's?",
     "answers": [
       {
-        " text": "training the immune system to recognize and reverse amyloid deposition",
+        "text": "training the immune system to recognize and reverse amyloid deposition",
         "answer_start": 158
       }
     ]
@@ -10385,7 +10385,7 @@
       "question": "Is there a cure for Alzheimer's?",
       "answers": [
         {
-          " text": "There is no known cure for Alzheimer's disease",
+          "text": "There is no known cure for Alzheimer's disease",
           "answer_start": 0
         }
       ]
@@ -10426,7 +10426,7 @@
       "question": "Which risk factors cannot be prevented?",
       "answers": [
         {
-          " text": "aging, family history and genetics",
+          "text": "aging, family history and genetics",
           "answer_start": 70
         }
       ]
