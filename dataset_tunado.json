@@ -68,29 +68,6 @@
         }
       ]
     },
-    {
-        "context": "Alzheimer's disease is a chronic neurodegenerative disease and the most common form of dementia. The disease manifests itself slowly and worsens over time. The most common initial symptom is short-term memory loss, with difficulties recalling recent events.",
-        "qas": [
-          {
-            "question": "What is the most common form of dementia?",
-            "answers": [
-              {
-                "text": "Alzheimer's disease",
-                "answer_start": 0
-              }
-            ]
-          },
-          {
-            "question": "What is the most common initial symptom of Alzheimer's disease?",
-            "answers": [
-              {
-                "text": "short-term memory loss",
-                "answer_start": 163
-              }
-            ]
-          }
-        ]
-      },
       {
         "context": "The first symptoms are often mistaken for the normal aging process or manifestations of stress.",
         "qas": [
@@ -1241,29 +1218,6 @@
           }
         ]
       },
-      {
-      "context": "Alzheimer's disease develops uniquely in each person, although there are common symptoms; for example, the most common initial symptom is memory loss.",
-      "qas": [
-        {
-          "question": "Does Alzheimer's disease develop in the same way in all people?",
-          "answers": [
-            {
-              "text": "unique to each person",
-              "answer_start": 34
-            }
-          ]
-        },
-        {
-          "question": "What is the most common initial symptom of Alzheimer's disease?",
-          "answers": [
-            {
-              "text": "memory loss",
-              "answer_start": 122
-            }
-          ]
-        }
-      ]
-    },
       {
 "context": "Often, the first symptoms of the disease are mistaken for the normal processes of aging or stress.",
 "qas": [
@@ -10595,29 +10549,6 @@
       ]
   },
   {
-      "context": "Alzheimer's disease is the most common form of dementia, accounting for about 60 to 70% of cases",
-      "qas": [
-          {
-              "question": "What is the most common form of dementia?",
-              "answers": [
-                  {
-                      "text": "Alzheimer's disease",
-                      "answer_start": 0
-                  }
-              ]
-          },
-          {
-              "question": "What percentage of dementia cases are Alzheimer's disease?",
-              "answers": [
-                  {
-                      "text": "about 60 to 70% of cases",
-                      "answer_start": 72
-                  }
-              ]
-          }
-      ]
-  },
-  {
       "context": "Alzheimer's disease is a neurodegenerative disease characterized by the progressive death of brain nerve cells",
       "qas": [
           {
@@ -10733,30 +10664,6 @@
         }
       ]
     },
-      
-      {
-        "context": "Alzheimer's disease is the most common cause of dementia, accounting for 60-80% of cases. It is a progressive disease that affects memory, thinking, and behavior.",
-        "qas": [
-          {
-            "question": "What is the most common cause of dementia?",
-            "answers": [
-              {
-                "text": "Alzheimer's disease",
-                "answer_start": 0
-              }
-            ]
-          },
-          {
-            "question": "What percentage of dementia cases are caused by Alzheimer's disease?",
-            "answers": [
-              {
-                "text": "60-80%",
-                "answer_start": 45
-              }
-            ]
-          }
-        ]
-      },
     {
       "context": "Scientists believe that for most people, Alzheimer's disease is caused by a combination of genetic, lifestyle, and environmental factors that affect the brain over time. Less than 1% of cases are caused by specific genetic changes that guarantee a person will develop the disease.",
       "qas": [
